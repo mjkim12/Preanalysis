@@ -43,7 +43,7 @@ library(stats)
 
 ## Research Question
 
-"The failure to prosecute ... perpetrators such as Pol Pot, Idi Amin, and Saddam Hussein convinced the Serbs and Hutus that they could commit genocide with impunity" (@Akhavan2009, 629). To fight against such vicious cycle of injustice, the international community has been striving to end impunity for grave human rights violations. The effort culminated around 1998 with the rise of the International Criminal Court (ICC) and Universal Jurisdiction (UJ)[^1] which enabled the overriding of domestic amnesties for serious crimes against international law including genocide, war crimes, and crimes against humanity. This meant that even if a perpetrator has been amnestied by his home country, he can now still be prosecuted before international and foreign courts. Ban Ki-moon even claimed that such change brought forth the transition from the "era of impunity" to "era of accountability" (@Ban2010). Indeed, the rise of the ICC and UJ (hereafter, the anti-amnesty international regimes) stirred up a fierce discussion among academia and peace practitioners, which is often called as the 'peace versus justice debate' which was based on the conventional belief that the advent of the ICC and UJ would complicate states' use of amnesty as a peacemaking tool in conflicts (@GoldsmithKrasner2003, @SnyderVinjamuri2003, @Ginsburg2009, @Prorok2017, @Olsen2010a, @KimSikkink2010, @SimmonsDanner2010).
+"The failure to prosecute ... perpetrators such as Pol Pot, Idi Amin, and Saddam Hussein convinced the Serbs and Hutus that they could commit genocide with impunity" (@Akhavan2009, 629). To fight against such vicious cycle of injustice, the international community has been striving to end impunity for grave human rights violations. The effort culminated around 1998 with the rise of the International Criminal Court (ICC) and Universal Jurisdiction (UJ)[^1] which enabled the overriding of domestic amnesties for serious crimes against international law including genocide, war crimes, and crimes against humanity. This meant that even if a perpetrator has been amnestied by his home country, he can now still be prosecuted before international and foreign courts. Ban Ki-moon, the former Secretary General of the United Nation, even claimed that such change brought forth the transition from the "era of impunity" to "era of accountability" (@Ban2010). Indeed, the rise of the ICC and UJ (hereafter, the anti-amnesty international regimes) stirred up a fierce discussion among academics and peace practitioners, which is often called the 'peace versus justice debate' which was based on the conventional belief that the advent of the ICC and UJ would complicate states' use of amnesty as a peacemaking tool in conflicts (@GoldsmithKrasner2003, @SnyderVinjamuri2003, @Ginsburg2009, @Prorok2017, @Olsen2010a, @KimSikkink2010, @SimmonsDanner2010).
 
 [^1]: The term "Universal Jurisdiction (UJ)" refers to the idea that a national court may prosecute individuals for serious crimes against international law --such as crimes against humanity, war crimes, genocide, and torture --based on the principle that such crimes harm the international community or international order itself, which individual States may act to protect (International Justice Resource Center). To date, 163 out of the 193 UN member states that incorporate Universal Jurisdiction under national law, and they can potentially overrule amnesties for serious violations to act like an international court to prosecute international crimes (Amnesty International 2012, 2).
 
@@ -51,9 +51,9 @@ Contrary to the traditional belief of legal and political science scholars, howe
 
 # Theory
 
-In order for an amnesty deal to be stricken, it requires the willingness to grant the amnesty in the perspective of the granter's side and the demand to receive such amnesty in the recipient's side. Hence, many scholars, although largely untested, have suggested that the persistent use of SV amnesties can be traced by the amnesty granter's side (the supply factors) and the recipient's side (the demand factors). The supply factors that may prolong state's use of SV amnesties include states' "perceived utility [of amnesties] for ending violence" (@Jeffery2014), and "the desire to protect certain perpetrators from prosecution" (@Sikkink2012, 8). The demand factor include the increasing demand of amnesties from perpetrators who now should feel "the credible threat [of international prosecution and] ... at least the perception of the value [of amnesty]"(@Sly2002, @Mallinder2012). While acknowledging the existence of the supply side, this paper focuses on the demand side -- how the rebel group's risk of the ICC and UJ prosecutions affect the use of SV amnesties.
+The conventional wisdom is that the rise of international anti-amnesty regimes deter the use of SV amnesties mainly by creating a commitment problem between the amnesty granters (i.e., states) and potential recipients (i.e., culpable rebels) (@GoldsmithKrasner2003, @SnyderVinjamuri2003, @Ginsburg2009, @Prorok2017). In other words, since SV amnesties can be dishonored by the ICC and other countries practicing Universal Jurisdiction, the instability of SV amnesties would halter the value of amnesty as a peace bargaining tool. Existing studies disregard two important aspects of the SV amnesties in the conflict setting. First, the commitment problem theory rules out the possibility that rebel group can still be free from the commitment problem as long as they stay inside the home country or other neighboring states that are likely to respect the domestic amnesty instead of respecting international norms to hold them accountable. Therefore, rebel groups can still be free from such commitment problem and have incentive to demand SV amnesties. Second, the degree at which the rebel face foreign and international prosecutions vary and hence the effect of the ICC and UJ on their incentive to seek out for SV also amnesties. If a culpable rebel group only faces a threat of domestic prosecutions, the rise of the ICC and UJ would not directly affect its demand to seek out for SV amnesties. In other words, the advent of the ICC and the UJ should change the incentive of demand for SV amnesties only among rebel groups that fear the risk of prosecutions by the ICC and the UJ. Based on the logic, I argue that the advent of the ICC and UJ, by increasing the threat of international prosecutions, increased rebel's incentive to demand SV amnesties which hence fosters the use of SV amnesties.[^2] If this theory holds, rebel groups that face higher risk of foreign and international prosecutions should demand more SV amnesties and hence have higher possibility of receiving SV amnesties than groups that face lower risk of ICC/UJ prosecutions. Based on the theory, I come up with the following hypothesis.
 
-The conventional wisdom is that the new rise of international anti-amnesty regimes deter the use of SV amnesties mainly by creating the commitment problem between the amnesty granters (i.e., states) and potential recipients (i.e., culpable rebels) (@GoldsmithKrasner2003, @SnyderVinjamuri2003, @Ginsburg2009, @Prorok2017). However, a culpable rebel can still be free from the commitment problem by expecting an amnesty to let him stay safe at least in the home country or other neighboring states that is likely to respect the domestic amnesty more than international norms to punish him at its own yard (using UJ) or by handing him over to the ICC. In other words, if a culpable rebel group face a high risk of ICC/UJ prosecution, it can seek out for amnesty and stay safe as long as he is in the amnesty-granting country. If this theory holds, rebel groups that face higher risk of foreign and international prosecutions should demand more SV amnesties and hence have higher possibility of receiving SV amnesties than groups that face lower risk of ICC/UJ prosecutions. Based on the theory, I come up with the following hypothesis.
+[^2]: In order for an amnesty deal to be striken, there must be both demand and supply. While I acknowledge the existence of the supply factors (state's capacity/ willingness to grant SV amnesties, this paper theorize mainly focusing on the demand factor.
 
 ***Hypothesis:*** With the advent of the anti-impunity regimes, rebel groups that face greater risk of foreign and international prosecutions receive more SV amnesties than rebel groups that face lower risk of foreign and international prosecutions.
 
@@ -63,7 +63,7 @@ The main comparison of this study is SV amnesties before and after the rise of t
 
 ## Data
 
-I use Dancy's Conflict Amnesty Data which provide information on states' issue of amnesties for civil wars from 1945 to 2014 (@Dancy2018). Since my main interest is to examine SV amnesties which usually occur once or twice in a state-rebel dyad conflict, I collapse the original data's *yearly* observations of dyad (a state-a rebel) civil conflicts into *event* observations to prevent overfitting (i.e., years of a state-rebel dyad conflict is one observation). Additionally, while the original data identify whether the amnesties cover serious crimes or not, they not identify whether the amnestied rebel groups indeed committed serious crimes. It means that some rebel groups may have received amnesties that cover a wider coverage of crimes (i.e., serious crimes) than the actual crimes that they have committed. To complement this issue, I identify rebel groups' reported involvement in serious crimes including civilian killing, child soldier, and sex crimes using the UCDP One-sided violence data set(@EckHultman2007), the Haer and Böhmelt (2017) data set (@HaerBhmelt217) and the SVAC data set (@CohenRagnhild2014) respectively. The unit of analysis is a state-rebel dyad. My data have observations of 514 dyad conflicts of 105 countries.
+I use Dancy's Conflict Amnesty Data which provide information on states' issuance of amnesties for civil wars from 1945 to 2014 (@Dancy2018). Since my main interest is in examining SV amnesties which usually occur once or twice in a state-rebel dyad conflict, I collapse the original data's *yearly* observations of dyad (a state-a rebel) civil conflicts into *event* observations to prevent overfitting (i.e., years of a state-rebel dyad conflict is one observation). Additionally, while the original data identify whether the amnesties cover serious crimes or do not, they not identify whether the amnestied rebel groups indeed committed serious crimes. It means that some rebel groups may have received amnesties that cover a wider coverage of crimes (i.e., serious crimes) than the actual crimes that they have committed. To complement this issue, I identify rebel groups' reported involvement in serious crimes including civilian killing, child soldier, and sex crimes using the UCDP One-sided violence data set(@EckHultman2007), the Haer and Böhmelt (2017) data set (@HaerBhmelt217) and the SVAC data set (@CohenRagnhild2014) respectively. The unit of analysis is a state-rebel dyad. The data have observations of 413 dyad conflict of 101 countries.
 
 ```{r Data, echo=FALSE,results=FALSE, warning=FALSE, message= FALSE}
 # Load Data from Github
@@ -71,84 +71,106 @@ urlfile="https://raw.githubusercontent.com/mjkim12/Preanalysis/main/amnesty_mjk_
 
 df<-read_csv(url(urlfile))
 
+#Change the name of column
+names(df)[names(df)=="max_rebpresosts"] <- "TNR"
+names(df)[names(df)=="warend_post98"] <- "ongoing98"
+
 # Original Data Composition (before removing missing data)
 dim(df) # 514 observations, 57 variables
 unique(df$country.x) #105 countries
 table(df$sum_hram) #Number of wars with SV amnesties: total 76 cases 
+#Create a column for a binary svamn (indicating whether the conflict had an exchange of SV amnesty or not)
+df$dummy_svamn <- ifelse(df$sum_hram>0,1,0) #making SVAmnesty into dummy
 
+#Create a column for interaction of TNR and ongoing98
+df$interaction <- (df$TNR) * (df$ongoing98)
+
+#Change NA into 0 for "SV" columns as NA indicates that there is no reported Serious crimes in the dyad by the rebel side.
+df$sv[df$sv=="NA"] <- "0"
+df$sv[is.na(df$sv)] <- 0
+names(df)
 #Distribution of war-periods (pre98, post98, ongoing98) and SV amnesties
+table(df$sum_hram) #Number of wars with SV amnesties: total 76 cases (0:422, 1: 66, 2: 6, 3: 2, 4: 1, 5:1) 
 table(df$pre98war, df$sum_hram) #32 out of 295 dyad-conflicts involved with sv amnesties.(10.8%)
 table(df$post98war, df$sum_hram) #17 out of 136 dyad-conflicts involved with sv amnesties (12.5%)
 table(df$cross98war, df$sum_hram)#27 out of 67 wars involved with svamn.(40.3%)
-table(df$warend_post98, df$sum_hram) #war_end_98 refers to ongoing98 (i.e., cross+post). 44 out of 203 wars involved with sv amnesties.(21.7%)
+table(df$ongoing98, df$sum_hram) #ongoing98 (i.e., cross+post). 44 out of 203 wars involved with sv amnesties.(21.7%)
+names(df)
+# Creating reduced working data 
+wrdf <- df %>%dplyr:: select(country.x, side_b, dyadid, sum_hram, yearsatwar, terrytory, intensity, ethnic, numdyads, fightcap,  blood, pre98war, post98war, ongoing98, TNR, war_end_yr,war_end_yr, interaction, sv, dummy_svamn)
+dim(wrdf) #514, 19
 
-#Make some variables as binary
-table(df$sum_hram) #Number of wars with SV amnesties: total 76 cases (0:422, 1: 66, 2: 6, 3: 2, 4: 1, 5:1) 
-df$dummy_svamn <- ifelse(df$sum_hram>0,1,0) #making SVAmnesty into dummy
-
-wrdf <- df %>%dplyr:: select(sum_hram, demtrans, yearsatwar, terrytory, intensity, ethnic, numdyads , rebcap, fightcap,  blood, judicialinde ,post98war, warend_post98, max_rebpresosts, mediation, mean_v2xpolyarchy,war_end_yr,)
-
-#I excluded sv because it reduces sample size into 340 -> 100.
-
-#Changed the variable name (max_rebpresosts is the indicator for TNR)
-names(wrdf)[names(wrdf)=="max_rebpresosts"] <- "TNR"
-
-#Removing Missing Data
-sum(is.na(wrdf)) #601
+#Removing Missing Data (I discuss this point later)
+sum(is.na(wrdf)) #441
 wrdat <- na.omit(wrdf)
-dim(wrdat) #dimension: 340, 17
 
-table(wrdat$warend_post98) #240, 100 
-table(wrdat$sum_hram)
-wrdat$dummy_svamn <- ifelse(wrdat$sum_hram>0,1,0)
-table(wrdat$dummy_svamn) # 287 wars w/o svamn; 53 wars with.
-table(wrdat$TNR) #201 conficts vs. local, 139 conflicts vs. TNRs
+
+wrdat$sv <- as.numeric(wrdat$sv)
+```
+
+```{r Descriptive Statistics, echo=FALSE,results=FALSE, warning=FALSE, message= FALSE}
+dim(wrdat) #dimension: 413, 19
+unique(wrdat$country.x) #101 countries (before removing missing data, there were 105)
+
+table(wrdat$ongoing98) #263, 150
+
+table(wrdat$sum_hram) #total dyad: 413, war with sva: 68; 9 of them had more than one sv amnesty deal (i.e., multiple granting of amnesties to the same rebel group).  
+
+table(wrdat$dummy_svamn) # 345 wars w/o svamn; 68 wars with.
+table(wrdat$interaction) #71 wars by TNR "AND" happened ongoing98
 
 #Categorizing conflicts by years of start and end yrs
-df_pre98 <- wrdat[which(wrdat$post98war==0), ] #276 dyad wars
-df_post98 <- wrdat[which(wrdat$post98war==1), ] #64 dyad
-df_ongoing98 <- wrdat[which (wrdat$warend_post98==1), ] #100 dyad
+df_pre98 <- wrdat[which(wrdat$post98war==0), ] #325 dyad wars (51 sva)
+df_post98 <- wrdat[which(wrdat$post98war==1), ] #88 dyad (17 sva)
+df_ongoing98 <- wrdat[which(wrdat$ongoing98==1), ] #150 dyad (41 sva)
 ```
 
 ## Variables and Measures
 
 ### Response Variable
 
-The dependent variable is coded 1 if there has been any exchange of SV amnesties in state-rebel group dyad conflict. Data show that SV amnesties are usually exchanged once in a state-rebel dyad conflict, if there is any (86.8%). Yet, in some wars, SV amnesties were granted multiple times (at most five times), probably due to failed attempts to resolve wars even by issuing amnesties. Among 514 dyad conflicts in data, 76 cases involved with exchanging of SV amnesties.
+The dependent variable is coded as 1 if there has been any exchange of SV amnesties in state-rebel group dyad conflict. Among the 413 dyad conflicts in data, 68 dyad wars involved exchanging of SV amnesties. The data show that SV amnesties are usually exchanged once in a state-rebel dyad conflict, if there is any (86.8%). Only nine out of the 68 rebel groups received sv amnesties more than one time, at most five times, probably due to failed attempts to resolve wars even after issuing amnesties.
 
 ### International Anti-amnesty Regimes (ICC, UJ)
 
-I use year 1998 to indicate the key independent variable -- the emergence of anti-amnesty regimes. In this year, both ICC and UJ emerged together accidentally, and the 1998-cutoff is widely used in literature to indicate the transition from the era of impunity to the era of accountability (@Dancy2018, @Krcmaric2018, @Daniels2020). Using the indicator, I categorize conflicts into three types: Pre-98 wars, Post-98 wars, and Ongoing-98 wars. They represent wars that ended before 1998, wars that started after 1998, and wars that were ongoing in 1998 (i.e., that started before 1998 and ended after 1998 (e.g., 1980-2010)) respectively. Using them, I make two comparisons: First is to compare SV amnesties in *Pre98 wars* withSV amnesties in *Post98*. This comparison would be the sharpest since Pre-98 and Post-98 amnesties are clearly without and with the potential effect of the ICC and UJ respectively. Second, I can compare SV amnesties in *Pre-98 wars* with SV amnesties in *Ongoing*-98 *wars.* This comparison is also theoretically suitable because states generally grant amnesties at the end-stage of a conflict. In the actual paper, I will report both comparisons, but this pre-analysis mainly discusses the latter comparison using `Ongoing98` dummy. In the whole data set, pre-98 conflicts comprise about 59% of observations (N =295), post-98 conflicts about 27 % (N =136), and cross-98 conflicts about 13% (N = 67) (i.e., ongoing-98 conflicts (N = 203; 40%).
+I use the year 1998 to indicate the key independent variable -- the emergence of anti-amnesty regimes. In this year, both the ICC and UJ emerged together accidentally, and the 1998-cutoff is widely used in the literature to indicate the transition from the era of impunity to the era of accountability (@Dancy2018, @Krcmaric2018, @Daniels2020). More specifically, I categorize conflicts by three time coverage: Pre-98 wars, Post-98 wars, and Ongoing-98 wars. They represent wars that ended before 1998, wars that started after 1998, and wars that were ongoing in 1998 (i.e., that started before 1998 and ended after 1998 (e.g., 1980-2010)) respectively. Using them, I make two comparisons: First is to compare SV amnesties in *Pre98 wars* with SV amnesties in *Post98 wars*. This comparison would be the sharpest since Pre-98 and Post-98 amnesties are clearly without and with the potential effect of the ICC and UJ respectively. Second, I compare SV amnesties in *Pre-98 wars* with SV amnesties in *Ongoing-98 wars*. This comparison is also theoretically suitable because states generally grant amnesties at the end-stage of a conflict. Hence, amnesty deals in the Ongoing-98 wars are likely to be affected by the ICC and the UJ. In the actual paper, I will report both comparisons, but this pre-analysis mainly discusses the latter comparison using the `Ongoing98` dummy. In the whole data set, pre-98 conflicts comprise about 78% of observations (N =325), post-98 conflicts about 21 % (N =88), and ongoing-98 conflicts about 36% (N = 150).
 
 ### Rebel's Risk of Prosecutions
 
-To test for the conditional impact of anti-amnesty regimes, I interact the impact of anti-amnesty regimes with a measure of rebel's risk of foreign and international prosecutions. In order to measure the level of risk, I use the binary indicator of rebel's type -- whether a rebel group is a transnational rebel groups (TNRs) that operate across state borders with foreign sanctuaries or local rebel groups. This is based on my theoretical claim that TNRs face greater risk of foreign and international prosecutions than local rebel groups that operate only within its national territory. State boundaries are *de facto* lines of defense against foreign aggression (Salehyan 2007, 220), and international and foreign courts require state cooperation to apprehend suspects. For this reason, amnestied perpetrators are most likely to stay safe from arrest by foreign and international actors as long as they stay in the amnesty-granting home country. This makes local rebel groups face a lower risk of foreign or international prosecutions than TNRs. Local rebel groups have little worry whether amnesties would be overridden by the ICC or UJ. Yet, TNRs with foreign-based assets and facilities are more likely to linger outside the home country and hence confront a higher risk of arrests of external actors. Indeed, many high-ranking rebels indicted by the foreign and international courts were arrested in foreign territories, including Straton Musoni (head of the FDLR (Rwanda) arrested in Germany), Mohammed Jabbateh (a high-ranking officer of ULIMO (Liberia) arrested in the U.S.), and Charles Blé Goudé (former leader of Congrès Panafricain des Jeunes et des Patriotes (Ivory) arrested in Ghana) to name a few.
+To test for the conditional impact of anti-amnesty regimes, I interact the impact of anti-amnesty regimes with a measure of rebel's risk of foreign and international prosecutions. In order to measure the level of risk, I use the binary indicator of rebel's type -- whether a rebel group is a transnational rebel groups (TNRs) that operate across state borders with foreign sanctuaries or local rebel groups. This is based on my theoretical claim that TNRs face greater risk of foreign and international prosecutions than local rebel groups that operate only within its national territory. State boundaries are *de facto* lines of defense against foreign aggression (Salehyan 2007, 220), and international and foreign courts require state cooperation to apprehend suspects. For this reason, amnestied perpetrators are most likely to stay safe from arrest by foreign and international actors as long as they stay in the amnesty-granting home country. This makes local rebel groups face a lower risk of foreign or international prosecutions than TNRs. Local rebel groups have little worry whether amnesties would be overridden by the ICC or UJ. Yet, TNRs with foreign-based assets and facilities are more likely to linger outside the home country and hence confront a higher risk of arrests of external actors. Indeed, many high-ranking rebels indicted by the foreign and international courts were arrested in foreign territories, including Straton Musoni (head of the FDLR (Rwanda) arrested in Germany), Mohammed Jabbateh (a high-ranking officer of ULIMO (Liberia) arrested in the U.S.), and Charles Blé Goudé (former leader of Congrès Panafricain des Jeunes et des Patriotes (Ivory) arrested in Ghana) to name a few. In the data, there are 246 dyads (59.6%) with local rebel groups and 167 dyads (40.4%) with TNRs.
 
 ## Identification Strategy
 
-To draw a causal inference (i.e., to understand an effect of any treatment), a researcher should be able to answer what would have happened to a group that is not treated (i.e., the counterfactual). In other words, one needs a precise comparison group -- which are equivalent except for the fact that one of them received the treatment. Such setting is possible in an experimental setting in where a researcher has a control over data generation. However, this condition is difficult to be met in an observational study in which "[a] investigator cannot control the assignment of treatments to subjects" (@Rosenbaum2010, vii). Since the treated subjects and non-treated subjects are not randomly selected, the studies suffer from biases (i.e., differences between treated and control groups) before treatment. In other words, it is difficult to say whether the differences in outcome between the treated and control groups are due to "chance" or "the real treatment effect." Hence, while observational studies can draw information on key variables and their associations with its low complexity, low cost, and low ethical constraints, they are far limited in drawing a causal inference compared to a randomized experimental design.
+To draw a causal inference (i.e., to understand an effect of any treatment), a researcher should be able to answer what would have happened to a group that was not treated (i.e., the counterfactual). In other words, one needs a precise comparison group -- which are equivalent except for the fact that one of them received the treatment. Such setting is possible in randomized experiments in where a researcher has a control over data generation. However, this condition is difficult to be met in an observational study in which "[a] investigator cannot control the assignment of treatments to subjects" (@Rosenbaum2010, vii). Since the treated subjects and non-treated subjects are not randomly selected, the studies suffer from biases -- differences between treated and control groups before treatment. In other words, it is difficult to say whether the differences in outcome between the treated and control groups are due to "chance" or "the real treatment effect." Hence, while observational studies can draw information on key variables and their associations with its low complexity, low cost, and low ethical constraints, they are far limited in drawing a causal inference compared to a randomized experimental design.
 
 ### Propensity Score Matching
 
-One approach to account for this limitation is to conduct a propensity score matching which enables an as-if randomized comparison by drawing a more sensible comparison group. Propensity score matching pairs subjects based on their propensity score -- the conditional probability of treatment given the observed covariates (@Rosenbaum2010, 72). By this, it effectively reduces observed biases and makes it possible to draw and compare the treated and control subjects. As the single variable summarizes relevant information in all observed control variables, one only needs to match on this scalar variable. For this reason, there is no limit on the number of covariates for adjustment, and it makes matching simpler and free from the curse of dimensionality. Most importantly, researchers can assess whether the adjustment is done enough by looking at the balance of observed covariates between control and treated units. Researcher can change model specification until a good balance is achieved. Such advantages are something unthinkable in usual regression analysis. Yet, a propensity matching strategy still has its limits. In most cases, the true propensity score is unknown, and hence it has to be estimated by modeling the receipt of treatment given observed covariates (@Imai2005). It means that bias can still arise from the process of researcher's choice of covariates in specifying the propensity score and unobserved covariates (@Rosenbaum2010, 73). Also, it discards unmatched units (@Rubin2001). Lastly, it is difficult to see the effect of matching variables on the outcome variable (@Thavaneswaran2008). Despite the limitation, this study attempts to overcome potential bias from observable covariates and reduce doubt of the result by transparently explaining the model specification and choices.
+One approach to account for this limitation is to conduct a propensity score matching which enables an as-if randomized comparison by drawing a more sensible comparison group. Propensity score matching pairs subjects based on their propensity score -- the conditional probability of treatment given the observed covariates (@Rosenbaum2010, 72). By this, it effectively reduces observed biases and makes it possible to draw and compare the treated and controlled subjects. As the single variable summarizes relevant information in all observed control variables, one only needs to match on this scalar variable. For this reason, there is no limit on the number of covariates for adjustment, and it makes matching simpler and free from the curse of dimensionality. Most importantly, researchers can assess whether the adjustment is done enough by looking at the balance of observed covariates between control and treated units. Researcher can change model specification until a good balance is achieved. Such advantages are something unthinkable in usual regression analysis.
+
+However, a propensity matching strategy still has its limits. In most cases, the true propensity score is unknown, and hence it has to be estimated by modeling the receipt of treatment given observed covariates (@Imai2005). It means that bias can still arise from the process of researcher's choice of covariates in specifying the propensity score and unobserved covariates (@Rosenbaum2010, 73). Also, it discards unmatched units (@Rubin2001). Lastly, it is difficult to see the effect of matching variables on the outcome variable (@Thavaneswaran2008). Despite the limitation, this study attempts to overcome potential bias from observable covariates and reduce doubt of the result by transparently explaining the model specification and choices.
 
 #### The Treatment (TNRs)
 
-I use the binary indicator of rebel group's type being transnational (`TNR`) as a treatment. The control group is the observations of local rebel groups (TNR = 0). The hypotheses predict that the treatment effect (`TNR`) on SV amnesties is only valid after the rise of the anti-amnesty regimes (post-1998). To examine the treatment effect heterogeneity, I test treatment effects for pre-1998 conflict observations (hereafter, pre98 subgroup) and post-1998 conflict observations (hereafter, post98 or ongoing98 subgroup depending on the cutoff point). I use the NSA data to distinguish whether the rebel group is a transnational. The NSA data's variable `Rebpresosts` indicates whether the rebel group operates to at least some extent outside the home country's borders. While the variable in the original dataset is trichotomous ('no,' "some," and "extensive"), I make them dichotomous. Among 414 dyads, there are 187 unique rebel groups captured in the dataset, and among them, there are 76 transnational rebel groups (TNRs) and 98 local rebel groups (no info about 13 groups). There are 201 amnesties granted to local-rebel group and 139 amnesties to TNRs.
+For the propensity score matching, I use the binary indicator of rebel group's type being transnational (`TNR`) as a treatment. The control group is the observations of local rebel groups (`TNR` = 0). The hypotheses predict that the treatment effect (`TNR`) on SV amnesties is only valid after the rise of the anti-amnesty regimes (post-1998). To examine the treatment effect heterogeneity, I test treatment effects for pre-1998 conflict observations (hereafter, pre98 subgroup) and post-1998 conflict observations (hereafter, post98 or ongoing98 subgroup depending on the cutoff point). Using the NSA data, the dummy variable `TNR` is coded 1 if the rebel group operates to at least some extent outside the home country's borders. Among 413 dyads, there are 401 unique rebel groups captured in the dataset, and among them, there are 76 transnational rebel groups (`TNR`) and 98 local rebel groups (no info about 13 groups). There are 201 amnesties granted to local-rebel group and 139 amnesties to TNRs.
+
+```{r unique rebel,  echo=FALSE,results=FALSE, warning=FALSE, message= FALSE, result =FALSE }
+table(wrdat$TNR) #246 with local rebel, 167 conflicts with TNRs
+unique(wrdat$side_b) #411
+```
 
 #### PS Score Model Specification
 
-To estimate the propensity score, I use logistic regression where I include available covariates that would statistically balance the covariates between the treated and control groups. Particularly, I use a Bayesian generalized linear model averaging with the `bayesglm` function (@Gelmanetal2011) which accounts for the model uncertainty inherent in the variable selection problem by averaging over the best models in the model class according to approximate posterior model probability.
+To estimate the propensity score, I use logistic regression where I include available covariates that would statistically balance the covariates between the treated and control groups. Particularly, I use a Bayesian generalized linear model averaging with the `bayesglm` function (@Gelmanetal2011) which accounts for the model uncertainty inherent in the variable selection problem by averaging over the best models in the model class according to approximate posterior model probability. While the `glm` model assumes normal distribution of errors, bayesian logistic regression offers a more flexible generalization of ordinary linear regression that does not need the normal distribution of errors. Most importantly, the `glm()` find you the best fitting coefficient while the `bayesglm()` do not give you a single estimated coefficient but instead a complete posterior distribution about how likely different values of coefficient (@ChenKaplan2015).
 
-Then, I specify the propensity score using variables that may affect SV amnesties as suggested in the earlier studies. Dancy 2018 suggest that judicial independence (`judicialinde`), democratic transitions (`demtrans`), number of years at war (`yearsatwar`), territory (`territory`), intensity (`intensity`), ethnic (`ethnic`), number of other groups fighting (`numdyads`), rebel strength (`rebcap`), fighting capacity (`fightcap`), and bloody hands (`blood`) can affect the number of amnesties (@Dancy2018). Additionally, I include a variable that indicates an involvement of a third-party mediation (`mediation`) and rebel groups' actual involvement of serious violations (`sv`).
+I specify the propensity score using variables that may affect SV amnesties as suggested in the earlier studies. Borrowing Dancy 2018, I include variables for the number of years at war (`yearsatwar`), territory (`territory`), intensity (`intensity`), ethnic (`ethnic`), number of other groups fighting (`numdyads`), rebel's fighting capacity (`fightcap`), and bloody hands (`blood`) which may affect the number of amnesties (@Dancy2018). Additionally, I include a variable that indicates rebel groups' actual involvement of serious violations (`sv`).
 
 #### Missing Data
 
-Theories behind propensity score analysis assume that the covariates are fully observed (@RosenbaumRubin1983). However, in practice, missingness in the covariates is sometimes inevitably. The two common solutions to deal with the missingness are 1) imputation such as filling the mean values or zero to missing observations. and 2) omitting the observations. In this study, missing data are mainly caused by merging of multiple data sets which cover different time periods. Hence, imputing the missing values as 0 or mean value would be inappropriate. As long as missingness does not depend both on the outcome variable and treatment variable, this bias is generally small. Since there is no theoretical base to believe that the missingness in this study is related to any of these, I ignore the missing data. After removing the missing data, there are 240 observations for `pre98` wars and 100 observations for `ongoing98` wars.
+Theories behind propensity score analysis assume that the covariates are fully observed (@RosenbaumRubin1983). However, in practice, missingness in the covariates is sometimes inevitably. The two common solutions to deal with the missingness are 1) imputation such as filling the mean values or zero to missing observations. and 2) omitting the observations. In this study, missing data are mainly caused by merging of multiple data sets which generate missing data at random. Hence, imputing the missing values as 0 or mean value would be inappropriate. As long as missingness does not depend both on the outcome variable and treatment variable, this bias is generally small. Since there is no theoretical base to believe that the missingness in this study is related to any of these, I ignore the missing data.
 
 #### Matching Method
 
-There are multiple ways of matching treated and untreated units such as nearest neighbor matching, Mahalanobis metric matching, and caliper matching. Among various options, I use the full matching to form weights and to analyze the outcome (@StuartGreen2008). The matched sets are created in a way that minimizes the global PS difference, defined as the sum of the distances between the PS of all pairs of treated and comparison individuals within each matched set, across all matched sets (@StuartGreen2008). Full matching makes use of all units in the data by forming a series of matched sets in which each set has either one treated unit and one or more control units or one control units and one or more treated units (@Hansen2004). The exposed units that have many comparison units with similar propensity scores will be grouped with many comparison units, whereas exposed units with few similar comparison units will be grouped with relatively fewer comparison units (@GreenStuart2014). Full matching uses original scores just to create the subclasses, not to form the weights directly (@HansenKlopfer2006), and hence it is less sensitive to the form of the propensity score model and known to form the subclasses in an optimal way (@Hansen2004). Lastly and most importantly, while other distance matching methods cannot estimate the average treatment effect (ATE) but only the average treatment effect of the treated (ATT), the full matching can be used to estimate the ATE (@AustinStuart2015)--which this paper aims to estimate. Table \ref{tab:structure_pre} Table \ref{tab:structure_ongoing} show the structures of matched sets for Pre-98 subgroup and Ongoing-98 subgroup, and they have 94.1 and 33.9 matched pairs (effective sample size) respectively.
+There are multiple ways of matching treated and untreated units such as nearest neighbor matching, Mahalanobis metric matching, and caliper matching. Among various options, I use the full matching to form weights and to analyze the outcome (@StuartGreen2008). The matched sets are created in a way that minimizes the global PS difference, defined as the sum of the distances between the PS of all pairs of treated and comparison individuals within each matched set, across all matched sets (@StuartGreen2008). Full matching makes use of all units in the data by forming a series of matched sets in which each set has either one treated unit and one or more control units or one control units and one or more treated units (@Hansen2004). The exposed units that have many comparison units with similar propensity scores will be grouped with many comparison units, whereas exposed units with few similar comparison units will be grouped with relatively fewer comparison units (@GreenStuart2014). Full matching uses original scores just to create the subclasses, not to form the weights directly (@HansenKlopfer2006), and hence it is less sensitive to the form of the propensity score model and known to form the subclasses in an optimal way (@Hansen2004). Lastly, while other distance matching methods cannot estimate the average treatment effect (ATE) but only the average treatment effect of the treated (ATT), the full matching can be used to estimate the ATE (@AustinStuart2015). Table \ref{tab:structure_pre} Table \ref{tab:structure_ongoing} show the structures of matched sets for Pre-98 subgroup and Ongoing-98 subgroup, and they have 101.3 and 50.9 matched pairs (effective sample size) respectively.
 
 ```{=tex}
 % latex table generated in R 4.1.2 by xtable 1.8-4 package
@@ -160,20 +182,22 @@ There are multiple ways of matching treated and untreated units such as nearest 
  & x \\ 
   \hline
 10:1 &   1 \\ 
-  9:1 &   1 \\ 
-  7:1 &   1 \\ 
-  5:1 &   1 \\ 
-  4:1 &   1 \\ 
-  3:1 &   3 \\ 
-  2:1 &   8 \\ 
-  1:1 &  32 \\ 
-  1:2 &   9 \\ 
-  1:3 &   5 \\ 
-  1:4 &   5 \\ 
-  1:5 &   1 \\ 
-  1:7 &   1 \\ 
-  1:9 &   2 \\ 
-  1:14 &   2 \\ 
+  8:1 &   1 \\ 
+  6:1 &   1 \\ 
+  5:1 &   2 \\ 
+  4:1 &   4 \\ 
+  3:1 &   9 \\ 
+  2:1 &   5 \\ 
+  1:1 &  30 \\ 
+  1:2 &   2 \\ 
+  1:3 &   4 \\ 
+  1:4 &   3 \\ 
+  1:5 &   4 \\ 
+  1:6 &   4 \\ 
+  1:7 &   2 \\ 
+  1:9 &   1 \\ 
+  1:15 &   1 \\ 
+  1:23 &   1 \\ 
    \hline
 \end{tabular}
 \caption{Structure of Matched Sets for pre98} 
@@ -188,17 +212,18 @@ There are multiple ways of matching treated and untreated units such as nearest 
   \hline
  & x \\ 
   \hline
-11:1 &   1 \\ 
-  6:1 &   2 \\ 
+16:1 &   1 \\ 
+  6:1 &   1 \\ 
   5:1 &   1 \\ 
-  2:1 &   1 \\ 
-  1:1 &   7 \\ 
+  3:1 &   2 \\ 
+  2:1 &   3 \\ 
+  1:1 &  20 \\ 
   1:2 &   4 \\ 
-  1:3 &   2 \\ 
-  1:4 &   1 \\ 
+  1:3 &   1 \\ 
+  1:4 &   2 \\ 
+  1:5 &   2 \\ 
   1:6 &   1 \\ 
-  1:8 &   1 \\ 
-  1:9 &   1 \\ 
+  1:8 &   2 \\ 
    \hline
 \end{tabular}
 \caption{Structure of Matched Sets for ongoing-98} 
@@ -207,11 +232,11 @@ There are multiple ways of matching treated and untreated units such as nearest 
 ```
 #### Balance of Covariates
 
-If the propensity score is estimated properly, the distribution of covariates should be similar between treated and matched control units (@HansenBowers2008, @Imai2005). I will judge the success of the adjustment by looking at the balance of covariate distributions in the treatment and control groups after matching. I first conduct a balance test before matching to calculate standardized differences across covariates without the stratification. Table \ref{tab:prebalance_pre} and \ref{tab:prebalance_ongoing} test results are shows that the chi-square value and the p-value are 59.46 and 0.00 for pre-98 data subset and 24.90 and 0.01 for ongoing-98 subset. They suggest that there are considerable differences between the treatment and control groups for both pre- and ongoing- datasets. Such difference makes it difficult to induce a good comparison, and hence shows why propensity score matching can be useful in this study.
+If the propensity score is estimated properly, the distribution of covariates should be similar between treated and matched control units (@HansenBowers2008, @Imai2005). I will judge the success of the adjustment by looking at the balance of covariate distributions in the treatment and control groups after matching. I first conduct a balance test before matching to calculate standardized differences across covariates without the stratification. Table \ref{tab:prebalance_pre} and \ref{tab:prebalance_ongoing} show the test results for the chi-square and the p-value for the pre-98 and ongoing-98 datasets. In the pre-98, the chi-square is 64.83 and p-value is 0.00; in ongoing-98 dataset, the chi-square is 36.10 and p-value is 0.00. They suggest that there are considerable differences between the treatment and control groups for both pre- and ongoing- datasets. Such difference makes it difficult to induce a good comparison, and hence shows why propensity score matching can be useful in this study.
 
-```{r PREMATCHING Balance Test: pre98, echo=FALSE, results=TRUE, warning=FALSE, message= FALSE }
+```{r PREMATCHING Balance Test: pre98, echo=FALSE, results=TRUE, warning=FALSE, message= FALSE}
 #PREMATCHING Balance Test for Pre-98 Subset
-balfmla_pre98 <- reformulate(c(names(df_pre98)[c(2:11)]), response="TNR")
+balfmla_pre98 <- reformulate(c(names(df_pre98)[c(5:11,19)]), response="TNR")
 
 xb0_pre98 <- xBalance(balfmla_pre98, strata=list(raw=NULL), data=df_pre98,
                 report= c("std.diffs", "z.scores","adj.means", 
@@ -220,8 +245,6 @@ xb0_pre98 <- xBalance(balfmla_pre98, strata=list(raw=NULL), data=df_pre98,
 ```
 
 ```{=tex}
-% latex table generated in R 4.1.2 by xtable 1.8-4 package
-% Sun Jan 30 21:07:33 2022
 \begin{table}[ht]
 \centering
 \caption{Balance before Matching for Pre-98} 
@@ -229,15 +252,16 @@ xb0_pre98 <- xBalance(balfmla_pre98, strata=list(raw=NULL), data=df_pre98,
   \hline
  & chisquare & df & p.value \\ 
   \hline
-raw & 59.46 & 10.00 & 0.00 \\ 
+raw & 64.83 & 8.00 & 0.00 \\ 
    \hline
 \end{tabular}
 \label{tab:prebalance_pre}
 \end{table}
 ```
+
 ```{r PREMATCHING Balance Test: ongoing98, echo=FALSE, results=TRUE, warning=FALSE, message= FALSE}
 #PREMATCHING Balance Test for Ongoing098 Subset
-balfmla_ongoing98 <- reformulate(c(names(df_ongoing98)[c(2:11)]), response="TNR")
+balfmla_ongoing98 <- reformulate(c(names(df_ongoing98)[c(5:11,19)]), response="TNR")
 
 xb0_ongoing98<- xBalance(balfmla_ongoing98, strata=list(raw=NULL), data=df_ongoing98,
                 report= c("std.diffs", "z.scores","adj.means", 
@@ -246,8 +270,6 @@ xb0_ongoing98<- xBalance(balfmla_ongoing98, strata=list(raw=NULL), data=df_ongoi
 ```
 
 ```{=tex}
-% latex table generated in R 4.1.2 by xtable 1.8-4 package
-% Sun Jan 30 21:07:54 2022
 \begin{table}[ht]
 \centering
 \caption{Balance before Matching for Ongoing-98} 
@@ -255,16 +277,13 @@ xb0_ongoing98<- xBalance(balfmla_ongoing98, strata=list(raw=NULL), data=df_ongoi
   \hline
  & chisquare & df & p.value \\ 
   \hline
-raw & 24.90 & 10.00 & 0.01 \\ 
+raw & 36.10 & 8.00 & 0.00 \\ 
    \hline
 \end{tabular}
 \label{tab:prebalance_ongoing}
 \end{table}
 ```
-
-After propensity score matching, the chi-square and p-value are 1.04 and 1.00 for pre-98 dataset and 1.66 and 1.00 for ongoing-98 dataset (Table \ref{tab:Balance_pre}, Table \ref{tab:Balance_ongoing}). They suggest that the treatment and control groups are not too different and hence a good comparison group. The balance of each covariate distributions before and after matching are nicely visualized in Figure \ref{fig:xbalpre} and \ref{fig:xbalongoing} which illustrate the `xBalance` results for Pre-98 and Ongoing-98 war observations (@HansenBowers2008). For both Pre-98 and Ongoing-98 datasets, the standardized differences of control and treatment group became closer to 0 for all covariates after matching. Hence, I consider the adjustment successful. Table \ref{tab:matchpre98} and Table \ref{tab:matchongoing98} show the pre- and post-matching balances in more detail for individual covariates for the pre- and ongoing-98 datasets respectively.[^2]
-
-[^2]: I also tried the full matching using a ranked-based Mahalanobis distance, but it produced a worse balance (refer to the Rmd. file). Hence, here, I stick using the full matching with propensity score.
+Table \ref{tab:Balance_pre}, Table \ref{tab:Balance_ongoing} show the chi-square values and p-values for pre- and ongoing- datasets after propensity score matching. In pre-98 dataset, chi-square value and p-value are 1.72 and 0.99 respectively; in ongoing-98 dataset, the chi-square value and p-value are 6.24 and 0.62 respectively . They suggest that the treatment and control groups are not too different and make a good comparison group. The balance of each covariate distributions before and after matching are nicely visualized in Figure \ref{fig:xbalpre} and \ref{fig:xbalongoing} which illustrate the `xBalance` results for Pre-98 and Ongoing-98 war observations (@HansenBowers2008). For both Pre-98 and Ongoing-98 datasets, the standardized differences of control and treatment group became closer to 0 for most covariates after matching. Hence, I consider the adjustment successful.
 
 ```{r PS Matching for Pre-98 Data, echo=FALSE,results=FALSE, warning=FALSE, message=FALSE}
 df_pre98_2 <- df_pre98
@@ -272,11 +291,7 @@ df_pre98_2 <- df_pre98
 # Create linear predictors for pre-98 data
 glm_pre98  <- bayesglm(balfmla_pre98, data=df_pre98_2, family = binomial)
 
-## Here, I use the function `bayesglm` -- a Bayesian Generalized Linear Model averaging -- which accounts for the uncertainties of the model parameter.
-
 df_pre98_2$pscore_pre98 <- predict(glm_pre98, type = "link")
-
-#pscore_pre98 <- predict(glm_ps_pre98, type = "response")
 
 # Make distance matrices
 psdist_pre98 <-match_on(TNR~ pscore_pre98, data=df_pre98_2)
@@ -285,21 +300,21 @@ as.matrix(psdist_pre98)[1:5,1:5]
 # Fullmatching using the propensity score
 ps_pre98 <- fullmatch(psdist_pre98, data = df_pre98_2)
 ps_pre98_summary <- summary(ps_pre98, data = df_pre98_2, min.controls = 0, max.controls = Inf)
-ps_pre98_summary  #Effective sample size 94.1
+ps_pre98_summary  #Effective sample size 101.3
 
-#xtable(fm1_pre98_summary$matched.set.structures, caption = "Structure of Matched Sets for pre98")
+#xtable(ps_pre98_summary$matched.set.structures, caption = "Structure of Matched Sets for pre98")
 ```
 
 ```{=tex}
 \begin{table}[ht]
 \centering
-\caption{Balance of Pre-98} 
+\caption{Balance of Pre-98}
 \begin{tabular}{rrrr}
   \hline
  & chisquare & df & p.value \\ 
   \hline
-raw & 59.46 & 10.00 & 0.00 \\ 
-  ps\_pre98 & 1.04 & 10.00 & 1.00 \\ 
+raw & 64.83 & 8.00 & 0.00 \\ 
+  ps\_pre98 & 1.54 & 8.00 & 0.99 \\ 
    \hline
 \end{tabular}
 \label{tab:Balance_pre}
@@ -308,14 +323,14 @@ raw & 59.46 & 10.00 & 0.00 \\
 
 ```{=tex}
 \begin{table}[ht]
-\centering
 \caption{Balance of Ongoing-98} 
+\centering
 \begin{tabular}{rrrr}
   \hline
  & chisquare & df & p.value \\ 
   \hline
-raw & 24.90 & 10.00 & 0.01 \\ 
-  ps\_ongoing98 & 1.66 & 10.00 & 1.00 \\ 
+raw & 36.10 & 8.00 & 0.00 \\ 
+  ps\_ongoing98 & 1.40 & 8.00 & 0.99 \\ 
    \hline
 \end{tabular}
 \label{tab:Balance_ongoing}
@@ -330,7 +345,7 @@ plot(xb1_ps_pre98, main="Pre-98 Xbalance Result")
 ```
 
 ```{r PS Xtable for Pre-98 Data, echo=FALSE, results=FALSE, warning=FALSE}
-xtable(xb1_ps_pre98$overall)
+#xtable(xb1_ps_pre98$overall)
 ```
 
 ```{r PS Matching for Ongoing-98 Data, echo=FALSE,results=FALSE,warning=FALSE,message=FALSE}
@@ -349,7 +364,7 @@ as.matrix(psdist_ongoing98)[1:5,1:5]
 # Fullmatchingusing the ps
 ps_ongoing98 <- fullmatch(psdist_ongoing98, data = df_ongoing98_2)
 ps_ongoing98_summary <- summary(ps_ongoing98, data = df_ongoing98_2, min.controls = 0, max.controls = Inf)
-#There are 33.9 effective sample size
+#There are 50.9 effective sample size
 
 xtable(ps_ongoing98_summary$matched.set.structures, caption = "Structure of Matched Sets for ongoing-98")
 ```
@@ -365,135 +380,67 @@ plot(xb1_ps_ongoing98, main="Ongoing-98 Xbalance Result")
 ```
 
 ```{r PS Xtable for Ongoing-98 Data, echo=FALSE, results=FALSE, warning=FALSE}
-xtable(xb1_ps_ongoing98$overall)
+#xtable(xb1_ps_ongoing98$overall)
 ```
 
-```{=tex}
-\begin{table}[ht]
-\caption{Differences in Observed Characteristics between Treatment and Control Group Before and After Matching Adjustment for Pre-98 Wars} 
-\centering
-\begin{tabular}{lrrrrrrrrrrrrrr}
-  \hline
-<Before> & TNR=0 & TNR=1 & adj.diff & adj.diff.null.sd & std.diff & z &  \\ 
-  \hline
-judicialinde & 0.24 & 0.28 & 0.04 & 0.03 & 0.18 & 1.49 & \\ 
-  demtrans & 0.10 & 0.15 & 0.05 & 0.04 & 0.16 & 1.33 & \\ 
-  yearsatwar & 2.77 & 6.73 & 3.95 & 0.67 & 0.76 & 5.88 & *** & \\ 
-  terrytory & 0.21 & 0.41 & 0.20 & 0.06 & 0.44 & 3.52 & *** &  \\ 
-  intensity & 0.50 & 0.66 & 0.16 & 0.06 & 0.34 & 2.73 & **  &  \\ 
-  ethnic & 0.06 & 0.08 & 0.02 & 0.03 & 0.08 & 0.67 &  \\ 
-  numdyads & 1.72 & 1.58 & -0.14 & 0.13 & -0.13 & -1.03 &    \\ 
-  rebcap & -0.94 & -1.23 & -0.29 & 0.12 & -0.31 & -2.55 & *   &   \\ 
-  fightcap & 0.61 & 0.30 & -0.31 & 0.07 & -0.53 & -4.21 & ***  &     \\ 
-  blood & 0.12 & 0.26 & 0.15 & 0.05 & 0.38 & 3.10 & **  &     \\ 
-  mediation & 0.08 & 0.15 & 0.06 & 0.04 & 0.20 & 1.67 & .    &     \\ 
-   \hline
-<After>& TNR=0 & TNR=1 & adj.diff & adj.diff.null.sd & std.diff & z & \\ 
-  \hline
-judicialinde & 0.26 & 0.25 & -0.01 & 0.03 & -0.04 & -0.28 &  \\
-  demtrans & 0.10 & 0.09 & -0.01 & 0.05 & -0.03 & -0.21 &   \\
-    yearsatwar & 4.10 & 4.22 & 0.12 & 0.35 & 0.02 & 0.35 &     \\
-  terrytory &  0.32 & 0.30 & -0.02 & 0.07 & -0.06 & -0.38 &  \\
-    intensity & 0.58 & 0.59 & 0.00 & 0.07 & 0.01 & 0.06 &    \\
-    ethnic &   0.08 & 0.08 & -0.01 & 0.04 & -0.03 & -0.16 &    \\
-      numdyads &  1.61 & 1.71 & 0.10 & 0.15 & 0.09 & 0.65 &    \\
-        rebcap &  -1.15 & -1.15 & -0.01 & 0.12 & -0.01 & -0.06 &    \\
-          fightcap & 0.43 & 0.41 & -0.01 & 0.06 & -0.02 & -0.18 &    \\
-          blood & 0.17 & 0.19 & 0.03 & 0.05 & 0.07 & 0.55 &    \\
-            mediation & 0.12 & 0.14 & 0.02 & 0.05 & 0.08 & 0.52 &    \\
-            \hline   
-\end{tabular}
-\label{tab:matchpre98}
-\end{table}
-```
+```{r Rank-Based Mahalanobis distance for Pre-98 Data, eval = FALSE, echo=FALSE,results=FALSE,warning=FALSE, message=FALSE}
 
-```{=tex}
-\begin{table}[ht]
-\caption{Differences in Observed Characteristics between Treatment and Control Group Before and After Matching Adjustment for Ongoing-98 Wars} 
-\centering
-\begin{tabular}{lrrrrrrrrrrrrrr}
-  \hline
-<Before> & TNR=0 & TNR=1 & adj.diff & adj.diff.null.sd & std.diff & z &  \\ 
-  \hline
-judicialinde & 0.32 & 0.25 & -0.08 & 0.05 & -0.30 & -1.51 &      \\ 
-  demtrans & 0.08 & 0.17 & 0.09 & 0.07 & 0.29 & 1.45 &     \\ 
-  yearsatwar & 2.00 & 5.79 & 3.79 & 0.97 & 0.84 & 3.89 & *** &    \\ 
-  terrytory & 0.32 & 0.30 & -0.02 & 0.09 & -0.05 & -0.25 &    \\ 
-  intensity & 0.47 & 0.74 & 0.28 & 0.09 & 0.61 & 2.92 & **  &     \\ 
-  ethnic & 0.06 & 0.09 & 0.03 & 0.05 & 0.11 & 0.55 &     \\ 
-  numdyads & 1.90 & 1.70 & -0.20 & 0.20 & -0.20 & -1.00 &       \\ 
-  rebcap & -1.25 & -1.26 & -0.01 & 0.13 & -0.01 & -0.07 &         \\ 
-  fightcap & 0.36 & 0.32 & -0.04 & 0.10 & -0.08 & -0.38 &      \\ 
-  blood & 0.43 & 0.62 & 0.18 & 0.10 & 0.37 & 1.82 &     \\ 
-  mediation & 0.36 & 0.47 & 0.11 & 0.10 & 0.22 & 1.11 &       \\ 
-   \hline
-<After>& TNR=0 & TNR=1 & adj.diff & adj.diff.null.sd & std.diff & z & \\ 
-  \hline
-  judicialinde & 0.28 & 0.29 & 0.01 & 0.06 & 0.02 & 0.09 &  \\
- demtrans   & 0.06 & 0.06 & -0.00 & 0.08 & -0.01 & -0.05 &   \\
-  yearsatwar & 2.65 & 2.88 & 0.23 & 0.56 & 0.05 & 0.41 &  \\
- terrytory   & 0.20 & 0.29 & 0.08 & 0.11 & 0.18 & 0.75 &    \\
-  intensity & 0.64 & 0.61 & -0.03 & 0.09 & -0.07 & -0.33 &\\
- ethnic & 0.05 & 0.06 & 0.02 & 0.07 & 0.06 & 0.25 &     \\
-  numdyads & 1.96 & 1.77 & -0.19 & 0.23 & -0.18 & -0.82 & \\ 
-    rebcap &  -1.33 & -1.40 & -0.07 & 0.17 & -0.10 & -0.42 &\\   
-    fightcap & 0.36 & 0.29 & -0.07 & 0.13 & -0.14 & -0.56 &   \\
-    blood & 0.51 & 0.45 & -0.06 & 0.13 & -0.13 & -0.49 &  \\
-   mediation  & 0.44 & 0.36 & -0.08 & 0.13 & -0.16 & -0.61 &  \\
-      \hline
-\end{tabular}
-\label{tab:matchongoing98}
-\end{table}
-```
-
-```{r (optional) Rank-Based Mahalanobis distance for Pre-98 Data, eval = FALSE, echo=FALSE,results=FALSE,warning=FALSE, message=FALSE}
-
-#I tried fullmatching with rank-based Mahalanobis distance, but full matching with propensity score produced a better balance
+#Below, I also try fullmatching with rank-based Mahalanobis distance.
 
 ##############  Rank-Based Mahalanobis distance ####
-mhdist <- match_on(balfmla_pre98, data = df_pre98_2, method = "rank_mahalanobis")
-fm22 <- fullmatch(mhdist, data = df_pre98_2)
-fm22sum <- summary(fm22, data = df_pre98_2, min.controls = 0, max.controls = Inf)
+# Make distance matrices
+mhdist_ongoing98 <- match_on(TNR~ pscore_ongoing98,data=df_ongoing98_2, method = "rank_mahalanobis")
+as.matrix(mhdist_ongoing98)[1:5,1:5]
 
-# Add matched set indicators back to data
-df_pre98_2$fm22 <- NULL
-df_pre98_2[names(fm22), "fm22"] <- fm22
+# Fullmatchingusing the ps
+ps_mhdist_ongoing98 <- fullmatch(mhdist_ongoing98, data = df_ongoing98_2)
 
-## Balance test to see if I "adjusted enough"
-xb22 <- xBalance(TNR ~ judicialinde + demtrans +yearsatwar + terrytory+ intensity + ethnic + numdyads +rebcap + fightcap + blood+ mediation, strata = list(raw = NULL, fm22 = ~fm22), data = df_pre98_2, report = c("std.diffs", "z.scores", "adj.means","adj.mean.diffs", "chisquare.test", "p.values"))
+ps_mhdist_ongoing98_summary <- summary(ps_mhdist_ongoing98, data = df_ongoing98_2, min.controls = 0, max.controls = Inf)
+#There are 52.8 effective sample size
 
-# plot(xb22)## Balance is worse than fullmatching 
+xtable(ps_ongoing98_summary$matched.set.structures, caption = "Structure of Matched Sets for ongoing-98")
+
+#####xBalance to assess the balance properties of the match
+xb1_mhdist_ongoing98 <- xBalance(balfmla_ongoing98,
+               strata = list(raw=NULL, ps_mhdist_ongoing98 = ~ps_mhdist_ongoing98),
+               data = df_ongoing98_2,
+               report = "all")
+
+plot(xb1_mhdist_ongoing98, main="Ongoing-98 Xbalance Result")
+
+xtable(xb1_mhdist_ongoing98$overall)
 ```
 
-*NEW ADD#
-An unbiased estimator is one where E(estimator)=Truth. Bias is the mean of error which is computed through the mean of the difference between the estimate and the estimand or as follows:  bias = mean(estimate - estimand). 
-Regarding the mean squared error or MSE, the smallest MSE of an estimator indicates the most unbiased estimator.
-the way to compute the MSE is as follows: mse = sqrt(mean((estimate - estimand) ^ 2)).
+# Estimators and Estimand Using Simulated Data
 
-a good estimator should be 1) unbiased, i.e., it should avoid systematic error in guessing the estimand like the expected value of the estimator must be equal to the mean of the parameter; 2) consistent, i.e., the value of the estimator approaches the value of the parameter as more information presents such as when the sample size increases; and 3) efficient, i.e., the estimator has the smallest variance of all estimators which could be used.
+## Creating Simulated Datasets
 
-##############################3
-your standard errors are robust when they provide accurate hypothesis tests and confidence intervals given minimal assumptions about the data and model in large enough samples (see Angrist and Pischke 2009, p. 45-46). This means that your standard errors do not rely on the assumption of Gauss-Markov theorem that the errors in a linear regression model should be uncorrelated, have equal variance across all observation points (homoskedasticity), and expectation value of zero. In the case of your errors are heterescedastic (unequal variance) that violates those underlying assumptions, you still have a chance to improve your model (make your standard errors robust) by making the errors to be consistent (though they still have heteroscedasticity). So, that is why they are also known as heteroskedasticity-consistent standard errors. In R, you can do that through vcovHC() command under the sandwich package.
----
-Observations with correlations between objects of the same group (cluster) are referred to "cluster-correlated" observations. Each cluster comprises multiple objects that are correlated within, and it can lead to a nested or hierarchical structure. Ignoring this dependency can give you overestimation and inflated type I errors in the corresponding tests (Zeileis et al). Hence, clustered covariance is widely used to account for clustered correlations in the data. Cluster standard errors (CSEs) can account for heteroskedasticity across “clusters” of observations. 
+Before I discuss and draw estimands and estimators, I first create simulated populations based on their original data sets. I have three sets of population: 1) one from the whole dataset encompassing every time periods, 2) one from the Pre-98 dataset, and 3) one from the Ongoing-98 dataset. From each simulated population, I randomly select 500 observations and use them as the simulated datasets for analyses shown afterward. In order to check whether the simulated sampling worked well, I compare the distributions for key variables in the original whole dataset (Figure \ref{fig:descripreal}) and its simulated sample dataset (Figure \ref{fig:descripfake}). The distributions of the simulated sample data resembles the original data. 
 
-you want to use robust clustered standard errors because your regression residuals are heteroskedastic (later, I will show you this). The robust clustered standard error helps you get inferences that are asymptotically valid when the regression residuals are heteroskedastic.
-
-
-# Creating Simulated Datasets
-Before I discuss and draw estimands and estimators, I first create simulated populations for Pre-98 and Ongoing-98 data based on their original data sets. Then I randomly select 500 observations from the simulated population. I will use the new simulated datasets for pre-98 and ongoing-98 for analyses shown afterward. 
 
 ```{r Creating Simulated Data, echo=FALSE}
 ######### PRE-98 ##########
 # Create Simulated Population
+fake_population_whole<- declare_model(N = 1000, data = wrdat, handler = resample_data)
+
 fake_population_pre98 <- declare_model(N = 1000, data = df_pre98, handler = resample_data)
 
-fake_population_ongoing98 <- declare_model(N = 1000, data = df_pre98, handler = resample_data)
+fake_population_ongoing98 <- declare_model(N = 1000, data = df_ongoing98, handler = resample_data)
+
+#sv as numeric
+df_pre98$sv <- as.numeric(df_pre98$sv)
+df_ongoing98$sv <- as.numeric(df_ongoing98$sv)
 
 # Declare Potential Outcome (using the coeffecients from the logistic regression model. )
-pot.outcome_pre98 <- declare_potential_outcomes(dummy_svamn ~ 0.015971727*TNR + 0.216842863*demtrans + 0.018720002*yearsatwar + -0.009802668*terrytory + -0.023468035*intensity + -0.042089129*ethnic + 0.009229776*numdyads + 0.085767772*rebcap + -0.040316066*fightcap + 0.138540255, assignment_variables = "TNR")
 
-pot.outcome_ongoing98 <- declare_potential_outcomes(dummy_svamn ~ 0.25718*TNR+ 0.22774*demtrans + 0.01293*yearsatwar + 0.05358*terrytory + 0.09416*intensity + 0.14459*ethnic + 0.02093*numdyads + 0.10258*rebcap + -0.02764*fightcap + 0.07999, assignment_variables = "TNR")
+#summary(glm(dummy_svamn ~ interaction + TNR + ongoing98 + yearsatwar +terrytory + intensity+ethnic+ numdyads+ fightcap+ blood+sv, data=wrdat))
+pot.outcome_whole<- declare_potential_outcomes(dummy_svamn ~ 0.234930*interaction + -0.020289*TNR + -0.007065*ongoing98+ 0.016070*yearsatwar + -0.079395*terrytory + -0.015756*intensity + 0.002318*ethnic + -0.007976*numdyads  + 0.010228*fightcap + 0.052514*blood + 0.085073*sv + 0.064828) 
+
+#summary(glm(dummy_svamn ~ TNR + yearsatwar +terrytory + intensity+ethnic+ numdyads+ fightcap+ blood+sv, data=df_pre98))
+pot.outcome_pre98 <- declare_potential_outcomes(dummy_svamn ~ 0.008439*TNR  + 0.021124*yearsatwar + -0.073385*terrytory + -0.054135*intensity + -0.095101*ethnic + -0.012384*numdyads + 0.052484*fightcap + 0.128386*blood +0.108249*sv +0.044678, assignment_variables = "TNR")
+
+#summary(glm(dummy_svamn ~ TNR + yearsatwar +terrytory + intensity+ethnic+ numdyads+ fightcap+ blood+sv, data=df_ongoing98))
+pot.outcome_ongoing98 <- declare_potential_outcomes(dummy_svamn ~ 0.225086*TNR + 0.016584*yearsatwar + -0.096810*terrytory + 0.055754*intensity + 0.006644*ethnic + 0.001769*numdyads + -0.004979*fightcap + 0.029855*blood + 0.040419*sv + 0.031219, assignment_variables = "TNR")
 
 # Declare assignment
 assignment <- declare_assignment(assignment_variable = "TNR")
@@ -503,22 +450,31 @@ treatment_outcome <- declare_reveal(outcome_variables = "dummy_svamn",
 assignment_variables = "TNR")
 
 # Declare design
+my_design_whole <-  fake_population_whole  + pot.outcome_whole
+  
 my_design_pre <- fake_population_pre98 + pot.outcome_pre98 + assignment + treatment_outcome
 
 my_design_ongoing <- fake_population_ongoing98 + pot.outcome_ongoing98 + assignment + treatment_outcome
 
 # New simulated datasets 
 set.seed(12345)
+dat1_whole <- draw_data(my_design_whole)
 dat1_pre <- draw_data(my_design_pre)
 dat1_ongoing <- draw_data(my_design_ongoing) 
 
 ##Sampling 500 observations from the population
 set.seed(12345)
-
-#pre
+library(randomizr)
 sampling_1 <- declare_sampling(S=draw_rs(N=N, n=500))
-design_1pre <- fake_population_pre98 + sampling_1
+
+#whole
+design_1whole <- fake_population_whole + sampling_1
 set.seed(12345)
+df1_fake_whole <- draw_data(design_1whole) #NEW whole******
+  
+#pre
+set.seed(12345)
+design_1pre <- fake_population_pre98 + sampling_1
 df1_fake_pre <- draw_data(design_1pre) #NEW Pre******
 
 #ongoing
@@ -527,19 +483,271 @@ set.seed(12345)
 df1_fake_ongoing <- draw_data(design_1ongoing) #NEW Ongoing****
 ```
 
-# Statistical Estimand
 
-In this paper, I use a designed-based inference rather than a model-based inference. The design-based approach involves using information from a random sample to estimate some parameter of the population from which the sample was drawn (@Imai2016). Compared to the model-based inference, the designed-based approach requires fewer assumptions as it relies on the randomization mechanism to develop estimators. Also, the design-based estimators are unbiased and normally distributed in large samples with simple variance estimator. 
+```{r descriptive_realdata, echo=FALSE, warning=FALSE, message=FALSE, results=FALSE, fig.asp=0.5, fig.ncol = 1, fig.cap="\\label{fig:descripreal} Original Data Population Distribution"}
+#install.packages("scales")
+#install.packages("ggplot2")
+library(scales)
+library(ggpubr)
 
-Using the designed-based inference, this paper aims to estimate the average treatment effect (ATE) which is represented as $\beta_{ATE}$ in the model: $y_i = \beta_0 +\beta_{ATE}T_i +u_i$. The parameter $\beta_{ATE}$ is equal to $\bar{Y_T}-\bar{Y_C}$. In this paper, the ATE is the treated (i.e.,TNR) units' average likelihood of receiving of SV amnesty minus the control (i.e., local group) units' average likelihood of receiving of SV amnesty. I calculate the ATE for both Pre-98 subset and Ongoing-98 subset. 
+#Descriptive stats for original data
+regtnr <- ggplot(wrdat, aes(x=TNR)) + geom_bar(fill = "darkgreen") + ggtitle("TNR") + xlab("") + scale_x_continuous(breaks = c(0,1), labels=c("No", "Yes"))
 
-Below, I show two values of estimand for each dataset using two estimators -- logistic regression and propensity score matching--which I will discuss in the following section.
+regongoing <- ggplot(wrdat, aes(x=ongoing98)) + geom_bar(fill = "darkgreen") + ggtitle("Ongoing 98") + xlab("Ongoing 98") + scale_x_continuous(breaks = c(0,1), labels=c("No", "Yes"))
 
-```{r Estimand Pre-98, echo=FALSE, results=TRUE, fig.align = "center"}
+regsv <- ggplot(wrdat, aes(x=sv)) + geom_bar(fill = "darkgreen") + ggtitle("sv") + xlab("Serious Violation")+ scale_x_continuous(breaks = c(0,1), labels=c("No", "Yes"))
 
-# Declare an estimand for glm
+regdummysvamn <- ggplot(wrdat, aes(x=dummy_svamn)) + geom_bar(fill = "darkgreen") + ggtitle("SV Amnesty") + xlab("SV Amnesty") + scale_x_continuous(breaks = c(0,1), labels=c("No", "Yes"))
+
+regyears <- ggplot(wrdat, aes(x=yearsatwar)) + geom_bar(fill = "darkgreen") + ggtitle("Years at war") + xlab("Years at war")
+
+reginter <- ggplot(wrdat, aes(x=interaction)) + geom_bar(fill = "darkgreen") + ggtitle("interaction (TNR*98)") + xlab("interaction") + scale_x_continuous(breaks = c(0,1), labels=c("No", "Yes"))
+
+ggarrange(regtnr,regongoing,regsv,regdummysvamn,regyears,reginter, ncol=3, nrow=2)
+```
+
+
+```{r descriptive_fake, echo=FALSE, warning=FALSE, message=FALSE, results=TRUE, fig.asp=0.5, fig.ncol = 1, fig.cap="\\label{fig:descripfake} Simulated Sample Distribution"}
+#Discriptive stats for simulated data
+wholetnr <- ggplot(df1_fake_whole, aes(x=TNR)) + geom_bar(fill = "darkgreen") + ggtitle("TNR") + xlab("") + scale_x_continuous(breaks = c(0,1), labels=c("No", "Yes"))
+
+wholeongoing <- ggplot(df1_fake_whole, aes(x=ongoing98)) + geom_bar(fill = "darkgreen") + ggtitle("Ongoing 98") + xlab("Ongoing 98") + scale_x_continuous(breaks = c(0,1), labels=c("No", "Yes"))
+
+wholesv <- ggplot(df1_fake_whole, aes(x=sv)) + geom_bar(fill = "darkgreen") + ggtitle("Serious Violation") + xlab("Serious Violation")+ scale_x_continuous(breaks = c(0,1), labels=c("No", "Yes"))
+
+wholedummysvamn <- ggplot(df1_fake_whole, aes(x=dummy_svamn)) + geom_bar(fill = "darkgreen") + ggtitle("SV Amnesty") + xlab("SV Amnesty") + scale_x_continuous(breaks = c(0,1), labels=c("No", "Yes"))
+
+wholeyears <- ggplot(df1_fake_whole, aes(x=yearsatwar)) + geom_bar(fill = "darkgreen") + ggtitle("Years at war") + xlab("Years at war")
+
+wholeinter <- ggplot(df1_fake_whole, aes(x=interaction)) + geom_bar(fill = "darkgreen") + ggtitle("interaction (TNR*98)") + xlab("interaction") + scale_x_continuous(breaks = c(0,1), labels=c("No", "Yes"))
+
+ggarrange(wholetnr,wholeongoing,wholesv,wholedummysvamn,wholeyears,wholeinter, ncol=3, nrow=2) ##fake 
+```
+
+## Estimand
+
+In this paper, I use a designed-based inference rather than a model-based inference. The design-based approach involves using information from a random sample to estimate some parameter of the population from which the sample was drawn (@Imai2016). Compared to the model-based inference, the designed-based approach requires fewer assumptions as it relies on the randomization mechanism to develop estimators. Also, the design-based estimators are unbiased and normally distributed in large samples with simple variance estimator. Using the designed-based inference, the estmand, or the target of estimation, in this study is $\beta_1$ -- a difference in the probability of SV amnesties (`dummy_svamn`) according to the interaction of the rebel's type (`TNR`) and the advent of the ICC and UJ (`ongoing98`). The basic model that represents the estimand is the following: 
+$y_i$ = $\beta_0$ +$\beta_(TNR*Ongoing98)$ +$u_i$. I will show the values of the estimand for two estimators in this paper -- the logistic regression model and the propensity score matching. 
+
+### Estimand 1
+
+I first declare the estimand for the logistic regression model using the `DeclareDesign`. I do not disaggregate the data into pre- and ongoing-98 datasets as I can directly obtain the interaction term between the `98-Ongoing` dummy and the `TNR`. The estimand by the interaction term is about 0.35 (Table \ref{tab:estimand1}).
+
+```{r Estimand for logistic, echo=FALSE, warning=FALSE, results=TRUE, fig.align = "center"}
+# Declare an estimand 
+
+### 1. with the interaction term one (glm)
+make_estimand1_whole <- function(data){
+  bs <- coef(glm(dummy_svamn~interaction , data=df1_fake_whole))
+  return(data.frame(estimand_label=c('glm'),
+                    estimand=bs[c('interaction')],
+                    stringsAsFactors = FALSE))}
+
+estimand1_whole<- declare_inquiry(handler = make_estimand1_whole,
+                               label = "pop_whole_relationship")
+
+design1_and_estimand_whole <-  fake_population_whole + sampling_1 + estimand1_whole
+
+kable(estimand1_whole(df1_fake_whole), caption = "Estimands1 for interaction\\label{tab:estimand1}") #0.3467262
+```
+
+## Estimator 1: Logistic Regression
+
+Logistic regression is a standard probabilistic statistical classification model for dichotomous outcome variables. Different from linear regression, the outcome of logistic regression on one sample is the probability that it is positive or negative, where the probability depends on a linear measure of the sample. However, the linear relationship may not always hold, and hence it is sensitive to the presence of outliers. For this reason, I first diagnose the existence of outliers. Also, the key difference of the logistic regression from linear models is its assumptions. Logistic regression does not require a linear relationship between the dependent and independent variables; the error terms (residuals) do not need to be normally distributed; homoscedasticity is not required; and the dependent variable is not measured on an interval or ratio scale. However, logistic regression requires an appropriate outcome structure (e.g., binary dependent variable for binary logistic regression), independent observations, the absence of multicollinearity (i.e., IVs should not be too highly correlated with each other), linearity of IVs and log odds, and a large sample size (@GregoryBader2018).
+
+### Influential Values
+
+From the logistic regression model with interaction term (`TNR` and `ongoing98`), I first check outliers using the Cook's distance. Figure \ref{fig:cook} shows five outliers. Since not all outliers are influential observations, I check whether the data contains potential influential observations by inspecting the standardized residual error. As Figure \ref{fig:residuals} shows, there are six data points with an absolute standardized residuals above 3 --which are highly likely outliers. As a result, I filter the six potential outliers (removed data points: 112, 420, 489, 531, 784, 807).
+
+```{r influential values1,echo=FALSE, warning=FALSE, message=FALSE, results=TRUE, fig.asp=0.5, fig.ncol = 1, fig.cap="\\label{fig:cook} Cook's Distance"}
+glm_fake_whole <- glm(dummy_svamn ~ interaction + TNR + ongoing98 + yearsatwar + terrytory + intensity + ethnic + numdyads + fightcap +blood+sv, data = df1_fake_whole)
+
+plot(glm_fake_whole, which=4, id.n=5) #196, 287, 420, 807, 912
+#not all outliers are influential observations. To check whether the data contains potential influential observations, the standardized residual error can be inspected. Data points with an absolute standardized residuals above 3 represent possible outliers and may deserve closer attention.
+```
+
+
+```{r influential values2,echo=FALSE, warning=FALSE, message=FALSE, results=FALSE, fig.asp=0.5, fig.ncol = 1, fig.cap="\\label{fig:residuals} Standardized Residuals"}
+# Extract model results:computes the standardized residuals (.std.resid) and the Cook’s distance (.cooksd) using the R function augment() from the broom package.
+
+library(broom)
+model.data <- augment(glm_fake_whole) %>%
+  mutate(index = 1:n())
+model.data %>% top_n(3, .cooksd) #420, 807, 912
+
+#plot the standardized residuals:
+ggplot(model.data, aes(index, .std.resid)) + 
+  geom_point(aes(color= interaction), alpha = .5) + 
+  theme_bw()
+  
+#Filter potential influential data points
+filtered <- model.data %>%
+  filter(abs(.std.resid)>3) #112, 420, 489, 531, 784, 807 removed
+
+xtable(filtered)
+```
+
+### Multicollinearity
+
+Multicollinearity corresponds to a situation where the data contain highly correlated predictor variables. It should be fixed by removing the concerned variables. One common way to detect multicollinearity is by looking at the VIF (variable inflation factors). VIF score of an independent variable represents how well the variable is explained by other independent variables. I use `vif()` function from `car package` which computes the VIF. As a rule of thumb, a VIF (variable inflation factors) that exceeds 5 or 10 indicates a problematic amount of collinearity (@Kassambara). Table \ref{tab:VIF} show the VIF scores of all independent variables in my logistic regression model. As there is no value that exceeds 5, I consider that there is no collinearity problem.
+
+```{r, result = TRUE, echo=FALSE, warning=FALSE, message=FALSE, results=TRUE}
+collinearity <- car::vif(glm_fake_whole)
+kable(collinearity, caption = "Assessing Collenearity Using VIF\\label{tab:VIF}")
+```
+
+### Performance of Estimator 1 (`glm`)
+
+To judge the performance of the estimators, I examine biases and RMSE based on 500 simulations using the `diagnose_design` function in `DeclareDesign`. The RMSE (Root Mean Squared Error) is the standard deviation of the residuals that measures how well the data values fit the line of best fit. Bias is the mean of error which is computed through the mean of the difference between the estimate and the estimand (i.e., bias = mean(estimate - estimand)). Hence, an unbiased estimator means that the estimator or test statistic is accurate to approximate the parameter. Table \ref{tab:est1perf} shows the diagnose on estimator 1 for pre-98 dataset. The RMSE is 0.13 which means that the data values quite deviate from the fitted line. The bias is -0.11. An unbiased estimator has bias close to zero, and bias is generally low if the absolute value is below 0.01. Hence, the result shows that there are negative bias on the estimator. Overall, the performance of the logistic regression seems poor. 
+
+```{r glm estimator, echo=FALSE, warning = FALSE, message=FALSE, results=FALSE, fig.align = "center"}
+#declare estimator1
+glm_estimator1 <- declare_estimator(dummy_svamn~interaction+TNR+ongoing98+yearsatwar+terrytory+intensity+ethnic+numdyads+fightcap+blood+sv,
+                                model = glm,
+                                term = c("interaction"),
+                                inquiry = c("interaction"),
+                                label = "glm")
+
+design_glm <- design1_and_estimand_whole + glm_estimator1
+
+set.seed(123345)
+sim_full <- simulate_design(design_glm, sims=500)
+
+diag1_glm <- diagnose_design(sim_full)
+
+estimator1perform <- reshape_diagnosis(diag1_glm, digits=2, select=NULL, exclude=NULL)
+xtable(estimator1perform)
+xtable(estimator1perform[,c(1, 2,3,4,5,6,7)])
+#RMSE: BiasL -0.10, 0.13	, Power: 0.94, Coverage: 0.62, Mean Estimate: 0.24, Mean Estimand: 0.35
+```
+
+```{=tex}
+% latex table generated in R 4.1.2 by xtable 1.8-4 package
+% Tue Feb  8 00:21:56 2022
+\begin{table}[ht]
+\centering
+\caption{Performance of Estimator 1}
+\begin{tabular}{rlllllll}
+  \hline
+ & Design & Inquiry & Estimator & Term & N Sims & Bias & RMSE \\ 
+  \hline
+1 & design\_glm & interaction & glm & interaction & 500 & -0.11 & 0.13 \\ 
+  2 &  &  &  &  &  & (0.00) & (0.00) \\ 
+   \hline
+\end{tabular}
+\label{tab:est1perf}
+\end{table}
+```
+
+
+## Estimator 2: Propensity Score Full Matching
+
+In order to evaluate the interaction term indirectly, I disaggregate the datasets into pre- and ongoing- datasets for matching estimator with `TNR` as the treatment. I expect its effect to be valid only within the ongoing-98 dataset. As I have done matching in earlier section, I repeat the same process here using the simulated dataset. I did fullmatching using the propensity score and also using a rank-based Mahalanobis distance. Table \ref{tab:ps} and Table \ref{tab:mahal} show the balance after the fullmatching with the ps and the mahalanobis distance respectively, for pre-98. The p-value from matching increased only with the PS matching, and its chi-square decreased significantly. It suggests that the fullmatching with PS performed better than fullmatching with the mahalanobis. The result is similar for ongoing-98 dataset (See Table \ref{tab:psongoing} and \ref{tab:mahalongoing}). 
+
+```{r PS With Randomly Sampled Population for Pre98, echo=FALSE, warning=FALSE, message=FALSE, results=FALSE}
+##Pre98 
+
+#Create linear predictors for ongoing-98 data
+glm_pre98_sampled <- 
+  bayesglm(balfmla_pre98, data = df1_fake_pre, family = binomial)
+
+df1_fake_pre$pscore_pre98 <- predict(glm_pre98_sampled, type = "link")
+
+# Make distance matrices
+psdist_pre98_sampled <-match_on(TNR~ pscore_pre98,data=df1_fake_pre)
+as.matrix(psdist_pre98_sampled)[1:5,1:5]
+
+caliper(psdist_pre98_sampled, 2)
+
+# Fullmatching using the ps
+ps_pre <- fullmatch(psdist_pre98_sampled, data = df1_fake_pre)
+
+xbps_pre <- xBalance(balfmla_pre98, strata=list(raw=NULL, ps_pre=~ps_pre),
+                     data=df1_fake_pre,
+                     report=c("std.diffs", "z.scores",  "adj.means", "adj.mean.diffs", "chisquare.test","p.values"))
+# The larger chi square value, the greater the probability that there really is a significant difference.
+
+# Create a rank-based Mahalanobis distance
+mhdist_pre <- match_on(balfmla_pre98, data=df1_fake_pre, method="rank_mahalanobis") 
+
+#fullmatch using a rank-based Mahalanobis distance
+mhfull_pre <- fullmatch(mhdist_pre, data=df1_fake_pre)
+
+xb_mh_pre <- xBalance(balfmla_pre98, strata=list(raw=NULL,mhfull_pre = ~mhfull_pre), data=df1_fake_pre, report=c("std.diffs", "z.scores",  "adj.means", "adj.mean.diffs", "chisquare.test","p.values"))
+```
+
+```{r,echo=FALSE, warning=FALSE, message=FALSE, results=TRUE}
+kable(xbps_pre$overall,caption = "Propensity Score Full Matching for Pre98\\label{tab:ps}")
+```
+
+```{r,echo=FALSE, warning=FALSE, message=FALSE, results=TRUE}
+kable(xb_mh_pre$overall,caption = "Mahalanobis Full Matching for Pre98\\label{tab:mahal}")
+```
+
+```{r,echo=FALSE, warning=FALSE, message=FALSE, results=TRUE,fig.show='asis', fig.asp=0.5, fig.ncol = 1}
+df1_fake_pre$ps_pre <- NULL
+df1_fake_pre[names(ps_pre),"mhfull_pre"]<-ps_pre
+plot(xbps_pre)
+
+df1_fake_pre$mhfull_pre <- NULL
+df1_fake_pre[names(mhfull_pre),"mhfull_pre"]<-mhfull_pre
+plot(xb_mh_pre)
+```
+
+```{r PS With Randomly Sampled Population for Ongoing98,echo=FALSE, warning=FALSE, message=FALSE, results=FALSE}
+##Ongoing98
+
+#Create linear predictors for ongoing-98 data
+glm_ongoing98_sampled <- 
+  bayesglm(balfmla_ongoing98, data = df1_fake_ongoing, family = binomial)
+
+df1_fake_ongoing$pscore_ongoing98 <- predict(glm_ongoing98_sampled, type = "link")
+
+# Make distance matrices
+psdist_ongoing98_sampled <-match_on(TNR~ pscore_ongoing98,data=df1_fake_ongoing)
+as.matrix(psdist_ongoing98_sampled)[1:5,1:5]
+
+caliper(psdist_ongoing98_sampled, 2)
+
+# Fullmatchingusing the ps
+ps_ongoing <- fullmatch(psdist_ongoing98_sampled, data = df1_fake_ongoing)
+
+xbps_ongoing <- xBalance(balfmla_ongoing98, strata=list(raw=NULL, ps_ongoing=~ps_ongoing),
+                     data=df1_fake_ongoing,
+                     report=c("std.diffs", "z.scores",  "adj.means", "adj.mean.diffs", "chisquare.test","p.values"))
+# The larger chi square value, the greater the probability that there really is a significant difference.
+
+# Create a rank-based Mahalanobis distance
+mhdist_ongoing <- match_on(balfmla_ongoing98, data=df1_fake_ongoing, method="rank_mahalanobis") 
+
+#fullmatch using a rank-based Mahalanobis distance
+mhfull_ongoing <- fullmatch(mhdist_ongoing, data=df1_fake_ongoing)
+
+xb_mh_ongoing <- xBalance(balfmla_ongoing98, strata=list(raw=NULL,mhfull_ongoing = ~mhfull_ongoing), data=df1_fake_ongoing, report=c("std.diffs", "z.scores",  "adj.means", "adj.mean.diffs", "chisquare.test","p.values"))
+```
+
+```{r,echo=FALSE, warning=FALSE, message=FALSE, results=TRUE}
+kable(xbps_ongoing$overall,caption = "Propensity Score Full Matching for Pre98\\label{tab:psongoing}")
+```
+
+```{r,echo=FALSE, warning=FALSE, message=FALSE, results=TRUE}
+kable(xb_mh_ongoing$overall,caption = "Mahalanobis Full Matching for Ongoing98\\label{tab:mahalongoing}")
+```
+
+```{r,echo=FALSE, warning=FALSE, message=FALSE, results=TRUE,fig.show='asis', fig.asp=0.5, fig.ncol = 1}
+df1_fake_ongoing$mhfull_ongoing <- NULL
+df1_fake_ongoing[names(mhfull_ongoing),"mhfull_ongoing"]<-mhfull_ongoing
+plot(xbps_ongoing)
+```
+
+### Estimand 2
+In pre-98 dataset, the estimand is about 0.07. In ongoing-98 dataset, the estimand is about 0.35 (Table \ref{tab:estmnd2pre} and \ref{tab:estmnd2ongoing}). The estimand for ongoing98 is almost identical with the estimand 1 (from the interaction term) which makes sense as the interaction term indicates the treatment (`TNR`) in Ongoing98 datasets. The size of the estimand is greater in Ongoing-98 as expected in the theory. 
+
+```{r,echo=FALSE, warning=FALSE, message=FALSE, results=TRUE}
+### 2. for matching estimator
+###### Pre
 make_estimand1_pre <- function(data){
-  bs <- coef(glm(dummy_svamn~TNR, data=df1_fake_pre))
+  bs <- coef(glm(dummy_svamn~TNR+mhfull_pre, data=df1_fake_pre), subset=!is.na(mhfull_pre))
   return(data.frame(estimand_label=c('TNR'),
                     estimand=bs[c('TNR')],
                     stringsAsFactors = FALSE))}
@@ -547,31 +755,12 @@ make_estimand1_pre <- function(data){
 estimand1_pre <- declare_inquiry(handler = make_estimand1_pre,
                                label = "pop_relationship")
 
-design1_and_estimand_pre <-  df1_fake_pre + sampling_1 + estimand1_pre
+design1_and_estimand_pre <-  fake_population_pre98 + sampling_1 + estimand1_pre
 
-#View estimand: #0.0717919
-kable(estimand1_pre(df1_fake_pre), caption = "Estimands1 for Pre98")
-```
+#View estimand: #0.049011
+kable(estimand1_pre(df1_fake_pre), caption = "Estimands1 for Pre98\\label{tab:estmnd2pre}")
 
-Robust regression model is not used in logit model (when the response variable is binary) because ~~~. Here, I have two estimators: glm and propensity score matching.
-
-```{r}
-library(haven)
-library(lmtest)
-library(sandwich)
-
-##TEST
-# fit the logistic regression
-fit = glm(y ~ x, data = dat, family = binomial)
-
-# get results with clustered standard errors (of type HC0)
-coeftest(fit, vcov. = vcovCL(fit, cluster = dat$z, type = "HC0"))
-```
-
-
-
-```{r Estimand Ongoing98, echo=FALSE, results=TRUE, fig.align = "center"}
-# Declare an estimand for lm_robust
+######## Ongoing
 make_estimand1_ongoing <- function(data){
   bs <- coef(glm(dummy_svamn~TNR, data=df1_fake_ongoing))
   return(data.frame(estimand_label=c('TNR'),
@@ -581,239 +770,14 @@ make_estimand1_ongoing <- function(data){
 estimand1_ongoing <- declare_inquiry(handler = make_estimand1_ongoing,
                                label = "pop_relationship")
 
-design1_and_estimand_ongoing <-  df1_fake_ongoing + sampling_1 + estimand1_ongoing
+design1_and_estimand_ongoing <-  fake_population_ongoing98 + sampling_1 + estimand1_ongoing
 
-# View estimand: 0.0236871
-kable(estimand1_ongoing(df1_fake_ongoing), caption = "Estimands1 for Ongoing98")
+
+#View estimand: #0.3504837
+kable(estimand1_ongoing(df1_fake_ongoing), caption = "Estimands1 for Ongoing98\\label{tab:estmnd2ongoing}")
 ```
 
-
-```{r DeclareDesign PRE-98, echo=FALSE,message=FALSE, warning=FALSE}
-#############DeclareDesign PRE-98 and Ongoing-98 
-#1-2. Declare Potential Outcomes
-pot.outcome_pre98 <- 
-  declare_potential_outcomes(Y =rnorm(N)) # In pre98 wars, TNR treatment should not affect the outcome.  
-
-pot.outcome_ongoing98 <- declare_potential_outcomes(Y ~ 0.26+ 0.02*Z) #In Ongoing98 wars, I expect treatment effect. I use 0.26 as the y-intercept because it is the mean possibility for a dyad to have sv amnesty, 
-
-#2. Inquiry (estimand) 
-estimand <- declare_inquiry(ATE = mean(Y_Z_1 - Y_Z_0))
-
-#3. Treatment Assignment 1: random assignment to half of the units. 
-assignment_pre98 <- declare_assignment(Z= complete_ra(N = N, m=138))
-assignment_ongoing98 <- declare_assignment(Z= complete_ra(N = N, m=50))
-
-#3-2: Treatment assignment by matching: treatment is also correlated with the covariates
-assignment <- 
-  declare_assignment(
-    handler = function(data){
-      prob <- with(data, pnorm(TNR + mediation+ judicialinde + demtrans +yearsatwar + terrytory + intensity + ethnic + numdyads +rebcap + fightcap +  blood))
-      data$Z <- rbinom(nrow(data),1, prob)
-      return(data)})
-
-revewal_Y <- declare_reveal(Y,Z)
-
-
-#4. Answer Strategy
-estimator_1 <- declare_estimator( Y~ Z, model = lm_robust)
-estimator_2 <- declare_estimator(Y~Z, model=difference_in_means)
-
-estimator_pre1 <- declare_estimator(Y~ TNR,
-                                model = lm_robust,
-                                term = 'TNR',
-                                inquiry = 'ATE',
-                                label = "lm_robust")
-
-estimator_pre_match <- declare_estimator(Y~ TNR,
-                                model = lm_robust,
-                                term = 'TNR',
-                                inquiry = 'ATE',
-                                label = "lm_robust")
-
-estimator_pre2 <- declare_estimator(Y~ max_rebpresosts + mediation+ judicialinde + demtrans +yearsatwar + terrytory + intensity + ethnic + numdyads +rebcap + fightcap +  blood,
-                                model = lm,
-                                term = 'TNR',
-                                inquiry = 'ATE',
-                                label = "lm")
-
-
-#5. Design Declare
-design_pre98 <- pop_pre98 +pot.outcome_pre98 +estimand +assignment_pre98
-  
-  
-  
-reveal_pre <- declare_reveal(Y,Z)
-
-samp_pre <- declare_sampling(S=draw_rs(N=N, n=100), filter = S ==1)
-
-
-design_pre1 <- pop_pre98 +pot.outcome_pre98+ estimand +assignment_pre98 + reveal_pre + samp_pre+ estimator_pre1
-
-design_pre2 <- pop_pre98 +pot.outcome_pre98+ estimand +assignment_pre98 + reveal_pre + samp_pre+estimator_pre2
-
-#diagnose1  <- diagnose_design(design_pre1 ,design_pre2)
-
-#xtable(head(diagnose1$diagnosands_df[,c(3,5,6, 7,8, 9,10)]))
-```
-
-
-
-### Statistical Estimators
-To calculate the estimand, I use two estimators: Ordinary Least Squares with Robust Standard Errors (`lm_robust`) and the matching estimator. To judge the performance of the estimators, I will examine biases and RMSE using the `diagnose_design` function in `DeclareDesign`. The RMSE (Root Mean Squared Error) is the standard deviation of the residuals that measures how well the data values fit the line of best fit. Unbiased estimator means that the estimator or test statistic is accurate to approximate the parameter. 
-
-#### 1) Ordinary Least Squares with Robust Standard Errors
-I use robust regression because it is known to be superior than canned OLS for estimating treatment effects with pre-treatment data by weighting down the influential observations (@SamiiAronow2012). The robust regression weights the observations differently based on where the observations lie. Specifically, it gives less weight to larger residuals and more weight to smaller residuals; the more observations weighted close to 1, the closer the robust regression results are to the ordinary least squared regression results. It also has limitation as it only removes the linear relationship between the covariates and the outcome variable. Hence it cannot adjust well if the relationships are not linear. Therefore, I also use the matching estimator which can adjust all observable covariates as discussed earlier. 
-
-```{r}
-library("sandwich")
-glm_pre <- glm(dummy_svamn~TNR+demtrans+yearsatwar+terrytory+intensity+ethnic+numdyads+rebcap+fightcap+blood+judicialinde, data = df_pre98, family = binomial)
-
-glm_ongoing <- glm(dummy_svamn~TNR+demtrans+yearsatwar+terrytory+intensity+ethnic+numdyads+rebcap+fightcap+blood+judicialinde, data = df_ongoing98)
-
-glm_interaction <- glm(dummy_svamn~TNR*warend_post98 +demtrans+yearsatwar+terrytory+intensity+ethnic+numdyads+rebcap+fightcap+blood+judicialinde, data = wrdat, family = binomial)
-
-########## Clustered Standard Errors for Logit
-### PRE### 
-# get results with clustered standard errors (of type HC0)
-coeftest(glm_pre, vcov. = vcovCL(glm_pre, cluster = df_pre98$TNR, type = 'HC0'))
-#OR
-# HC2 standard error and null hypo test results
-coeftest(glm_pre, vcov. = vcovHC(glm_pre, type = 'HC1'))
-#difference beetween vcovCL and vcovHC???? 
-##Clustered sandwich estimators are used to adjust inference when errors are correlated within (but not between) clusters. vcovCL allows for clustering in arbitrary many cluster dimensions (e.g., firm, time, industry), given all dimensions have enough clusters (for more details, see Cameron et al. 2011). If each observation is its own cluster, the clustered sandwich collapses to the basic sandwich covariance.
-##vcovHC gives the usual estimate of the covariance matrix of the coefficient estimates (vcovHC: Heteroscedasticity-Consistent Covariance Matrix Estimation)
-#vcovHC is a function for estimating a robust covariance matrix of parameters for a fixed effects or random effects panel model according to the White method
-
-# Confidence intervals using HC2 standard error
-coefci(glm_pre, vcov. = vcovHC(glm_pre, type = 'HC1'))
-
-#https://stackoverflow.com/questions/33351883/vcovhcsandwich-and-coeftestlmtest-returning-na-values 
-# heteroskedacity? THen how to adjust this? 
-### Ongoing #######
-# HC2 standard error and null hypo test results
-coeftest(glm_ongoing, vcov. = vcovHC(glm_ongoing, type = 'HC1'))
-# Confidence intervals using HC2 standard error
-coefci(glm_ongoing, vcov. = vcovHC(glm_ongoing, type = 'HC1'))
-
-
-#The sandwich package provides the vcovHC function that allows us to calculate robust standard errors. The type argument allows us to specify what kind of robust standard errors to calculate. “HC1” is one of several types available in the sandwich package
- 
-#diagnostic plot: #These plots are under the assumptions of linear model. Not appropriate and misleading for logit model. 
-plot(glm_pre, which= 5) #no inflluential point as every observations falls within the cook's distance.
-plot(glm_ongoing, which = 5)#no influential point
-plot(glm_pre)
-
-#The robust standard errors can be useful than the old-fashioned standard errors because the old-fashioned standard errors assume homoscedasticity while the robust standard errors give you asymptotically valid inference even when residuals are heteroskedastic. However, they can be misleading when you shouldn't do the asymptotic approximation. Asymptotic approximation relies on a large number of clusters or time series observations (Angrist and Pischke Ch8). Therefore, if you don't meet this condition, using robust standard errors can be misleading.
-
-```
-
-
-zero -inflated model as one estimator 
-
-```{r estimator 1: PRE-98}
-#declare estimator1: lm_robust
-estimator1 <- declare_estimator(dummy_svamn~TNR+demtrans+yearsatwar+terrytory+intensity+ethnic+numdyads+rebcap+fightcap+blood+judicialinde,
-                                model = glm,
-                                term = c("TNR"),
-                                inquiry = c("TNR"),
-                                label = "glm")
-
-reg1_pre <- rlm(dummy_svamn~TNR+demtrans+yearsatwar+terrytory+intensity+ethnic+numdyads+rebcap+fightcap+blood+judicialinde, data=df1_pre)
-```
-
-```{r estimator 1: Ongoing-98}
-#declare estimator1: lm_robust (common for pre, ongoing)
-estimator1 <- declare_estimator(dummy_svamn~TNR+demtrans+yearsatwar+terrytory+intensity+ethnic+numdyads+rebcap+fightcap+blood+judicialinde,
-                                model = lm_robust,
-                                term = c("TNR"),
-                                inquiry = c("TNR"),
-                                label = "lm_robust")
-
-reg1_ongoing <- rlm(dummy_svamn~TNR+demtrans+yearsatwar+terrytory+intensity+ethnic+numdyads+rebcap+fightcap+blood+judicialinde, data=df1_ongoing)
-```
-
-#### 2) Propensity Score Matching with Full Matching
-
-As I discussed heavily about propensity score matching and full matching earier with discussion about balance of covariates, here I declare and explore the matching estimator using the randomly sampled data. 
-
-```{r PS With Randomly Sampled Population for Pre98}
-
-##Pre98 
-
-#Create linear predictors for ongoing-98 data
-glm_pre98_sampled <- 
-  bayesglm(balfmla_pre98, data = df1_pre, family = binomial)
-
-#While the first glm model assumes normal distribution of errors, bayesian logistic regression offers a more flexible generalization of ordinary linear regression that does not need the normal distribution of errors. 
-#Most importantly, the glm() find you the best fitting coefficient while the bayesglm() do not give you a single estimated coefficient but instead a complete posterior distribution about how likely different values of coefficient.
-# In other words, by balancing within Bayesian propensity score, we can obtain a distribution of balance indices in addition to the point estimates so that the variation in balance indices can be naturally captured to assist in covariate balance checking (Chen and Kaplan 2015).
-
-df1_pre$pscore_pre98 <- predict(glm_pre98_sampled, type = "link")
-
-# Make distance matrices
-psdist_pre98_sampled <-match_on(TNR~ pscore_pre98,data=df1_pre)
-as.matrix(psdist_pre98_sampled)[1:5,1:5]
-
-# Fullmatchingusing the ps
-ps_pre98_sampled <- fullmatch(psdist_pre98_sampled, data = df1_pre)
-ps_pre98_summary_sampled <- summary(ps_pre98_sampled, data = df1_pre, min.controls = 0, max.controls = Inf)
-```
-
-```{r PS With Randomly Sampled Population for Ongoing98}
-##Ongoing98
-
-#Create linear predictors for ongoing-98 data
-glm_ongoing98_sampled <- 
-  bayesglm(balfmla_ongoing98, data = df1_ongoing, family = binomial)
-
-df1_ongoing$pscore_ongoing98 <- predict(glm_ongoing98_sampled, type = "link")
-
-# Make distance matrices
-psdist_ongoing98_sampled <-match_on(TNR~ pscore_ongoing98,data=df1_ongoing)
-as.matrix(psdist_ongoing98_sampled)[1:5,1:5]
-
-# Fullmatchingusing the ps
-ps_ongoing98_sampled <- fullmatch(psdist_ongoing98_sampled, data = df1_ongoing)
-ps_ongoing98_summary_sampled <- summary(ps_ongoing98_sampled, data = df1_ongoing, min.controls = 0, max.controls = Inf)
-#There are 21.4 effective sample size
-```
-
-```{r estimand2: Pre-98}
-# Declare an estimand for ps matching
-make_estimand2_pre <- function(data){
-  bs <- coef(lm(dummy_svamn~TNR + pscore_pre98, data=df1_pre))
-  return(data.frame(estimand_label=c('TNR'),
-                    estimand=bs[c('TNR')],
-                    stringsAsFactors = FALSE))}
-
-estimand2_pre <- declare_inquiry(handler = make_estimand2_pre,
-                               label = "Ongoing_relationship")
-
-design2_and_estimand_pre <-  pop_pre98 + sampling_pre + estimand2_pre
-
-#View estimand: 0.0200964
-kable(estimand2_pre(df1_pre), caption = "Estimands2_Pre")
-```
-
-```{r estimand2: Ongoing-98}
-# Declare an estimand for ps matching
-make_estimand2_ongoing <- function(data){
-  bs <- coef(lm(dummy_svamn~TNR + pscore_ongoing98, data=df1_ongoing))
-  return(data.frame(estimand_label=c('TNR'),
-                    estimand=bs[c('TNR')],
-                    stringsAsFactors = FALSE))}
-
-estimand2_ongoing <- declare_inquiry(handler = make_estimand2_ongoing,
-                               label = "Ongoing_relationship")
-
-design2_and_estimand_ongoing <-  pop_ongoing98 + sampling_ongoing + estimand2_ongoing
-
-#View estimand: 0.2874313
-kable(estimand2_ongoing(df1_ongoing), caption = "Estimands2_ongoing")
-```
-
-
-```{r estimator2}
+```{r estimator2,echo=FALSE, warning=FALSE, message=FALSE, results=TRUE}
 # Matching estimator: Common for Pre-98, ongoing98
 lm_match_estimator <- declare_estimator(
   dummy_svamn~TNR,
@@ -823,299 +787,105 @@ lm_match_estimator <- declare_estimator(
   label = "matching")
 ```
 
-```{r Diagnose for lm_robust}
-########  Pre -98 ###########
-#lm and lm robust 
-designs_full_pre <- design1_and_estimand_pre + estimator1
-set.seed(123456)
-sim_full_pre <- simulate_design(designs_full_pre, sims = 500)
+### Performance of Estimator 2 (Matching)
+Again, I examine biases and RMSE based on 500 simulations to evaluate the performance of the matching estimator. Table \ref{tab:perf2pre} shows that in Pre-98 dataset, bias is 0.05, and the RMSE is 0.06. Table \ref{tab:perf2ongoing} shows that in ongoing-98 dataset, bias is -0.01, and the RMSE is 0.04. For both pre- and ongoing datasets, the biases and RMSE are smaller than those values using the `glm` etimator. Hence, the estimator 2 performs better than the estimator 1.
 
-#diagnose
-diag1_pre <- diagnose_design(sim_full_pre)
-
-
-########  Ongoing -98 ###########
-designs_full_ongoing <- design1_and_estimand_ongoing + estimator1
-set.seed(123456)
-sim_full_ongoing<- simulate_design(designs_full_ongoing, sims = 500)
-
-#diagnose
-diag1_ongoing <- diagnose_design(sim_full_ongoing)
-```
-
-
-```{r Diagnose for matching}
+```{r Diagnose for matching, echo=FALSE, warning=FALSE, message=FALSE, results=FALSE}
 # lm with matching
 
-########  Pre -98 ###########
-designs_match_pre <- design2_and_estimand_pre + lm_match_estimator
+########  Pre-98 ###########
+designs_match_pre <- design1_and_estimand_pre + lm_match_estimator
 set.seed(1232123)
 sim_match_pre <- simulate_design(designs_match_pre, sims=500)
 
 diag2_pre <- diagnose_design(sim_match_pre)
+diag2_pre
+#500 simulation, bias: 0.08, RMSE: 0.08, Power: 0.97, coverage: 0.35, mean estimate: 0.13, mean estimand: 0.05
 
 ########  Ongoing -98 ###########
-designs_match_ongoing <- design2_and_estimand_ongoing + lm_match_estimator
+designs_match_ongoing <- design1_and_estimand_ongoing + lm_match_estimator
 set.seed(1232123)
 sim_match_ongoing <- simulate_design(designs_match_ongoing, sims=500)
-
+set.seed(1232123)
 diag2_ongoing <- diagnose_design(sim_match_ongoing)
+#500 simulation, bias: -0.01, RMSE: 0.04, Power: 1, coverage: 0.94, mean estimate: 0.34, mean estimand: 0.35
 ```
 
-#Lastly, coverage rates refer to the coverage probability of the confidence intervals. The covarge probability shows how often we obtain a confidence interval that contains the true population parameter if we were to repeat the entire sampling and analysis process. #
+```{r,echo=FALSE, warning=FALSE, message=FALSE, results=TRUE}
+es2_pre <- reshape_diagnosis(diag2_pre, digits=2, select = NULL, exclude =NULL)
+kable(es2_pre[,c(1:7)],caption = "Performance of Estimator 2 (Pre98) \\label{tab:perf2pre}") #0,08 bas, 0.09 RMSE
 
-generate a table showing the characteristics discussed in 11. Table 6 shows the diagnose for estimators using two different estimators and each with 500 simulations. Biases are generally low--0.01 or below. Since bias is close to zero, it indicates that the estimators for the treatment coefficients are unbiased. Also, the RMSEs are below 0.2 under both estimators. It means that the data values do not deviate much from the fitted line.
-
-
-## Statistical Tests
-
-A test statistic summarizes the relationship between treatment and observed outcomes using a simple number (i.e., a point estimate). However, relying on a single test statistic and a p-value from it can be misleading because the observed test statistic can be a extreme one from the perspective of the distribution of test statistics. This can cause an incorrect rejection of null hypothesis which is called the false positive error. Hence, the better way of estimating the false positive errors would be by repeating the study, calculating the test statistics, and then assessing the distribution of the test statistics that could have occurred if the null hypothesis were true. This process can be done by simulation. I plan to use the mean difference test statistic and conduct a simulation to get a confidence interval.
-
------
-<SJ>
-The hypothesis provided in [Section 2](#rdhyp) is about the population parameter. However, the data I've been using for the estimators are a sample of that population drawn to infer about the population. Hence, I need to assess whether the results I generated from the estimators can reject the null hypothesis. For the first two estimators, I use a Z-test for hypothesis testing on the `exposure` variable. First of all, I use a Z-test because my sample is large (n=500). Also, I've simulated my population, so I know the data points are independent of each other and that the sample was randomly selected.
-
-```{r TST1, echo=FALSE, results=TRUE}
-##declare full design with estimators 1 and 2
-design_full1 <- design1_plus_estiman  + 
-  estimator1 + estimator2
-##run 1000 simulations of the two estimators
-simulations <- simulate_design(design_full1, sims = 1000)
-##show the first 10 simulations (5 from each estimator) on table
-#xtable(head(simulations[,c(2,4,5,7,8,9,10)], n=10))
+es2_ongoing<- reshape_diagnosis(diag2_ongoing, digits=2, select = NULL, exclude =NULL)
+kable(es2_ongoing[,c(1:7)], caption = "Performance of Estimator 2 (Ongoing)\\label{tab:perf2ongoing}") #bias  -0.01, RMSE 0.04
 ```
 
----
+
+## Test Statistics and Estimator Diagnosis
+
+A test statistic summarizes the relationship between treatment and observed outcomes using a simple number (i.e., a point estimate). However, relying on a single test statistic and a p-value from it can be misleading because the observed test statistic can be a extreme one from the perspective of the distribution of test statistics. This can cause an incorrect rejection of null hypothesis which is called the false positive error. Hence, the better way of estimating the false positive errors would be by repeating the study, calculating the test statistics, and then assessing the distribution of the test statistics that could have occurred if the null hypothesis were true. This process can be done by simulation, which I already have conducted.
 
 ### Performance of the Tests
 
-I will judge the performance of tests by looking at the false positive rate and power. The power of a test is denoted by "(1-$\beta$)", and it is the probability of a true positive or the probability of avoiding a false negative. It ranges from 0 to 1, and as the power increases, the probability of making type II error (false negative) decreases. A false positive rate is the probability of a type I error. The false-positive rate of the test that makes up the confidence interval is the same as the coverage probability of a confidence interval. I will not judge the test performance by Family-wise error rate (FWER). Family-wise error rate (FWER) is the probability of making one or more false discoveries, or Type I errors (i.e., incorrectly rejecting the null hypothesis when the null hypothesis is true). This is usually inflated when performing multiple hypotheses tests. In this case, p-value has to be adjusted using Bonferroni correction or adjusting false discovery rate. However, this study does not involve any multiple testing. Also, I collapse all the yearly observations into a state-rebel dyad, so there is little concern with overfitting issue.
+I judge the performance of tests by looking at the false positive rate and power. The power of a test is the probability of a true positive or the probability of avoiding a false negative. It ranges from 0 to 1, and as the power increases, the probability of making type II error (false negative) decreases. Table \ref{tab:testperform}, \ref{tab:perf2pre} and \ref{tab:perf2ongoing} show the performance of the tests. Both estimators (glm and matching) have high power (all above 0.95). A false positive rate is the probability of a type I error. The false-positive rate of the test that makes up the confidence interval is the same as the coverage probability of a confidence interval. Coverage rates indicate the false-positive rate at alpha = 0.05. The covarge probability shows how often we obtain a confidence interval that contains the true population parameter if we were to repeat the entire sampling and analysis process. The false-positive rate (coverage) of two estimators are all above 0.6. 
 
-
-#### False Positive Rate and Power
-
-Table 5 shows powers and false positive rates using two different estimators for Pre- and Ongoing-98 data sets. ... Both are based on 0.05 thresholds for p-value (i.e., power = mean(p.value \<0.05); the same for false positive rates) and are based on 500 times of simulations.
-
-The powers of the estimators are both very low--all four power values are less than 0.1. It indicates that these models are likely to cause a high false negative. The false positive rates are also low--all less than 0.1. It indicates that the two models are less likely to cause type I error. The low power could be caused due to frequent zero outcome variables or due to the change of outcome variable as a binary outcome.
-
-
-```{r DeclareDesign Ongoing-98 , echo=FALSE,message=FALSE, warning=FALSE}
-########### DeclareDesign POST 98 ##############
-
-#Declare Population
-pop_ongoing98_2 <- declare_population(df_ongoing98)  #fm1_ongoing98
-
-pot.outcome_post <- declare_potential_outcomes(Y ~ -0.01*Z + dummy_svamn)
-
-estimand_post <- declare_inquiry(ATE = mean(Y_Z_1 - Y_Z_0))
-
-assignment_post <- declare_assignment(Z = conduct_ra(N=N, m=50))
-
-reveal_post <- declare_reveal(Y,Z)
-
-samp_post <- declare_sampling(S=draw_rs(N=N, n=100), filter = S ==1)
-
-estimator_post1 <- declare_estimator(Y~ max_rebpresosts,
-                                model = lm_robust,
-                                term = 'TNR',
-                                inquiry = 'ATE',
-                                label = "lm_robust")
-
-
-estimator_post2 <- declare_estimator(Y~ max_rebpresosts+ mediation+ judicialinde + demtrans +yearsatwar + terrytory + intensity + ethnic + numdyads +rebcap + fightcap +  blood,
-                                model = lm,
-                                term = 'TNR',
-                                inquiry = 'ATE',
-                                label = "lm")
-
-
-design_post1 <- pop_ongoing98_2 +pot.outcome_post+ estimand_post +assignment_post + reveal_post + samp_post+ estimator_post1
-
-
-design_post2 <-pop_ongoing98_2 +pot.outcome_post+ estimand_post +assignment_post + reveal_post + samp_post+ estimator_post2
-
-
-#diagnose1_post  <- diagnose_design(design_post1 ,design_post2)
-#xtable(head(diagnose1_post$diagnosands_df[,c(3,5,6, 7,8, 9,10)]))
-```
-
-```{r Power and False Positive Rate, echo=FALSE, message=FALSE, warning=FALSE}
-#design_pre <-diagnose_design(design_pre1, design_pre2, diagnosands = declare_diagnosands(power = mean(p.value <= 0.05), false_positive_rate = mean(p.value <= 0.05)))
-
-#design_post <-diagnose_design(design_post1, design_post2, diagnosands = declare_diagnosands(power = mean(p.value <= 0.05), false_positive_rate = mean(p.value <= 0.05)))
-
-#xtable(head(design_pre$diagnosands_df[,c(3,5,6,7)]))
-#xtable(head(design_post$diagnosands_df[,c(3,5,6,7)]))
-```
+I will not judge the test performance by Family-wise error rate (FWER). Family-wise error rate (FWER) is the probability of making one or more false discoveries, or Type I errors (i.e., incorrectly rejecting the null hypothesis when the null hypothesis is true). This is usually inflated when performing multiple hypotheses tests. In this case, p-value has to be adjusted using Bonferroni correction or adjusting false discovery rate. However, this study does not involve any multiple testing. Also, I collapse all the yearly observations into a state-rebel dyad, so there is little concern with overfitting issue. 
 
 ```{=tex}
+% latex table generated in R 4.1.2 by xtable 1.8-4 package
+% Tue Feb  8 00:24:18 2022
 \begin{table}[ht]
 \centering
-\caption{Power and False Positive Rates}
-\begin{tabular}{rlrrr}
+\caption{Test Performance on Estimator 1}
+\begin{tabular}{rlllllll}
   \hline
- & estimator\_label & power & se(power) & false\_positive\_rate \\ 
+ & Design & Inquiry & Estimator & Power & Coverage & Mean Estimate & Mean Estimand \\ 
   \hline
-1 & lm\_robust & 0.08 & 0.01 & 0.08 \\ 
-  2 & lm & 0.04 & 0.01 & 0.04 \\ 
-  \hline
-2 & lm\_robust & 0.00 & 0.00 & 0.00 \\ 
-  2 & lm & 0.06 & 0.01 & 0.06 \\ 
+1 & design\_glm & interaction & glm & 0.94 & 0.61 & 0.24 & 0.35 \\ 
+  2 &  &  &  & (0.01) & (0.02) & (0.00) & (0.00) \\ 
    \hline
 \end{tabular}
-\label{tab:powfpr}
+\label{tab:testperform}
 \end{table}
 ```
 
+```{r, echo=FALSE, warning=FALSE, message=FALSE, results=TRUE}
+#xtable(estimator1perform[,c(1,2,3,8,9,10,14)])
 
-```{r, echo = FALSE, warning=FALSE, results= FALSE}
-library(pscl)
-#ALL Propensity Score#
-wrdat_zero <- wrdat
-#glm_ps <-   glm(max_rebpresosts ~ mediation+ judicialinde + demtrans +yearsatwar + terrytory + intensity + ethnic + numdyads +rebcap + fightcap +  blood + sv, data = wrdat_zero, family = binomial())
+kable(es2_pre[,c(1:3, 8,9,10,14)],caption = "Performance of Test (Pre98) \\label{tab:perf2pre}") #0,08 bas, 0.09 RMSE
 
-#pscore <- predict(glm_ps, type = "response")
-#psdist <-match_on(max_rebpresosts~ pscore,data=wrdat_zero)
-#fm_all <- fullmatch(psdist, data = wrdat_zero)
-#fm_summary <- summary(fm_all, data = wrdat_zero, min.controls = 0, max.controls = Inf)
-
-#ps into the dataset
-#wrdat_zero$fm_all <- NULL
-#wrdat_zero[names(fm_all),"fm_all"] <- fm_all
-#head(wrdat_zero)
+kable(es2_ongoing[,c(1:3, 8,9,10,14)], caption = "Performance of Test 2 (Ongoing)\\label{tab:perf2ongoing}") #bias  -0.01, RMSE 0.04
 ```
 
 
-```{r echo=FALSE,results=FALSE,warning=FALSE, message=FALSE}
-#diagnose1  <- diagnose_design(design_pre1 ,design_pre2)
-#diagnose1_post  <- diagnose_design(design_post1 ,design_post2)
-
-#xtable(head(diagnose1$diagnosands_df[,c(3,6,7,9,10)]))
-#xtable(head(diagnose1_post$diagnosands_df[,c(3,6,7,9,10)]))
-```
-
-```{=tex}
-\begin{table}[ht]
-\centering
-\caption{Diagnosing Estimators} 
-\begin{tabular}{rlrrrr}
-  \hline
- & estimator\_label & bias & rmse & power & coverage \\ 
-  \hline
-1 & Pre-LM & -0.07 & 0.07 & 0.00 & 1.00 \\ 
-   \hline
-2 & Pre-GLM & -0.28 & 0.28 & 0.00 & 1.00 \\ 
-  \hline
-3 & Post-LM & 0.16 & 0.16 & 0.00 & 1.00 \\ 
-   \hline
-4 & Post-GLM & 0.99 & 0.99 & 0.00 & 1.00 \\ 
-   \hline
-\end{tabular}
-\end{table}
-```
-```{=tex}
-\begin{table}[ht]
-\centering
-\caption{Diagnosing Estimators}
-\begin{tabular}{rlrrrr}
-  \hline
- & estimator\_label & se(bias) & rmse & power & se(power) \\ 
-  \hline
-1 & lm\_robust & 0.01 & 0.11 & 0.08 & 0.01 \\ 
-  2 & lm & 0.01 & 0.18 & 0.02 & 0.01 \\ 
-   \hline
-1 & lm\_robust & 0.00 & 0.06 & 0.00 & 0.00 \\ 
-  2 & lm & 0.01 & 0.19 & 0.04 & 0.01 \\ 
-   \hline
-\end{tabular}
-\end{table}
-```
 # Mock Result
 
-Using fake data, I show a mock figure which shows the real data values in black, and the fitted values of the lm_robust model in red. I use propensity score matching and fixed effects to see the number of SV amnesties by democracy score. This figure shows that the actual data points are below the predicted line is above -- which means that democratic countries grant more sv amnesties. This is the opposite direction of what the theory is predicting (the figure here does not show the interaction effect).Hence, if the actual study exhibit similar figure, it would mean that the theory has weak statistical evidence.
+Table \ref{tab:es1res}, \ref{tab:es2respre}, and \ref{tab:es2resongoing} show the results of the analyses on the estimands using the logistic regression model and the propensity score matching. The result by `glm` on the interaction term (`TNR` and `ongoing98`) shows that the estimate of the interaction term is about 0.123. It indicates that the probability of the exchange of amnesties for serious violations is 0.12 higher to dyads by the transnational rebel groups that ended after the year 1998, compared to other cases. The p-value using t-test is 0.052 which suggests that I can almost reject the null hypothesis at the significant level at 0.05 (Table \ref{tab:es1res}). Hence, if the real outcome were as I have simulated it, then the following table would suggest that there are some evidence to support the proposed theory. On the other hand, the results on the matching estimator (Table \ref{tab:es2respre}, and \ref{tab:es2resongoing}) suggest otherwise. The estimates are -0.0014718 and -0.0085794 respectively, which is the opposite direction from the theory. However, the p-values using the t-test are 0.97 and 0.78 which suggest that there is weak statistical evidence to reject the null hypothesis and to believe my theory.
+ 
 
-```{r Mock Figure,echo=FALSE,results=FALSE,warning=FALSE, message=FALSE }
-#fakedata <- draw_data(design_pre1)
-#fakedata$sum_hram
+```{r Mock Figure,echo=FALSE,results=TRUE,warning=FALSE, message=FALSE}
 
-#ALL Propensity Score#
-#glm_ps <-  glm(DEM ~ judicialinde +yearsatwar + numdyads + ethnic + sv, data = wrdat, family = binomial())
+library(stats)
 
-#pscore <- predict(glm_ps, type = "response")
-#psdist <-match_on(DEM~ pscore,data=wrdat)
-#fm_all <- fullmatch(psdist, data = wrdat)
-#fm_summary <- summary(fm_all, data = wrdat, min.controls = 0, max.controls = Inf)
+est1 <- glm(dummy_svamn ~ interaction+TNR+ongoing98+yearsatwar+terrytory+intensity+ethnic+numdyads+fightcap+blood+sv, data=df1_fake_whole)
+matrix_coef_glm <- summary(est1)
+est2glm <- matrix_coef_glm$coefficients
+coef_glm <- est2glm[2,]
+kable(coef_glm,caption = "Interaction (`TNR`x`98`) from Estimator 1\\label{tab:es1res}")
 
-###lm_robust
-#model1 <-lm_robust(sum_hram ~ mean_v2xpolyarchy, fixed_effects = ~fm_all, data = wrdat)
+est2 <- lm(dummy_svamn ~ TNR + ps_pre, data=df1_fake_pre)
+matrix_coef_pre <- summary(est2)
+est2pre <- matrix_coef_pre$coefficients
+coef_pre <- est2pre[2,]
+kable(coef_pre,caption = "Treatment (`TNR`) from Estimator 2 (PRE) \\label{tab:es2respre}")
 
-#plot(wrdat$mean_v2xpolyarchy[wrdat$warend_post98==0],     wrdat$sum_hram[wrdat$warend_post98==0],    xlab="Level of Democracy",   ylab = "Number of SV Amnesties", ylim = c(0,1.2),     main = "M4")
-#abline(plot(model1$fitted.values, col = 2))
+est3 <- lm(dummy_svamn ~ TNR + ps_ongoing, data=df1_fake_ongoing)
+matrix_coef_ongoing <- summary(est3)
+est2ongoing <- matrix_coef_ongoing$coefficients
+coef_ongoing <- est2ongoing[2,]
+kable(coef_ongoing,caption = "Treatment (`TNR`) from Estimator 2 (Ongoing) \\label{tab:es2resongoing}")
 
 ```
 
-```{r PRE98 , echo=FALSE,results=FALSE,message=FALSE,warning=FALSE}
-
-## What is the biggest difference within set.
-#diffswithinsets<-df_pre98_2 %>% group_by(fm22) %>% summarize(meandiff = mean(sum_hram[DEM==1]) - mean(sum_hram[DEM==0]))
-#summary(diffswithinsets$meandiff)
-
-#DIFF PRE MATCHING
-#with(df_pre98_2, mean(sum_hram[DEM==1]) - mean(sum_hram[DEM==0]))
-
-## What are the distances like? 
-#tmp2 = df_pre98_2$sum_hram
-#names(tmp2) <- rownames(df_pre98_2)
-#absdist2 <- match_on(tmp2, z = df_pre98_2$DEM)
-#qtl2 <- quantile(as.vector(absdist2),seq(0,1,.1))
-
-
-## declare estimator
-#estimator22 <- declare_estimator(sum_hram~DEM+judicialinde + yearsatwar + numdyads + ethnic + sv,                                model = lm,                                term = 'DEM',                                estimand = 'DEM',                                label = "OLS")
-
-##declare estimand
-
-#make_estimands22 <- function(data){    bs <- coef(lm(sum_hram~DEM, data=df_pre98_2))    return(data.frame(estimand_label= 'DEM',               estimand=bs['DEM'],               stringsAsFactors = FALSE))}
-
-#estimand22 <- declare_inquiry(handler=make_estimands22,                            label="Pop_Relationships")
-
-#design1_plus_estimands22 <- pop_pre98_2 + estimand22
-#kable(estimand1(df_pre98_2), caption = "Estimands 22")
-
-#design_full22 <- design1_plus_estimands22 +  estimator22
-
-#run_design(design_full22)
-```
-
-```{r ongoing98, echo =FALSE,message=FALSE, results=FALSE, warning=FALSE}
-## What is the biggest difference within set.
-#diffswithinsets<-df_pre98_2 %>% group_by(fm22) %>% summarize(meandiff = mean(sum_hram[DEM==1]) - mean(sum_hram[DEM==0]))
-#summary(diffswithinsets$meandiff)
-
-##DIFF PRE MATCHING
-#with(df_pre98_2, mean(sum_hram[DEM==1]) - mean(sum_hram[DEM==0]))
-## What are the distances like? 
-#tmp2 = df_pre98_2$sum_hram
-#names(tmp2) <- rownames(df_pre98_2)
-#absdist2 <- match_on(tmp2, z = df_pre98_2$DEM)
-#qtl2 <- quantile(as.vector(absdist2),seq(0,1,.1))
-
-
-## declare estimator
-#estimator22 <- declare_estimator(sum_hram~DEM+judicialinde + yearsatwar + numdyads + ethnic + sv,        model = lm,  term = 'DEM',         estimand = 'DEM',    label = "OLS")
-
-###declare estimand
-#make_estimands22 <- function(data){    bs <- coef(lm(sum_hram~DEM, data=df_pre98_2))    return(data.frame(estimand_label= 'DEM',               estimand=bs['DEM'],               stringsAsFactors = FALSE))}
-#estimand22 <- declare_inquiry(handler=make_estimands22,                            label="Pop_Relationships")
-#pop_pre98_2 <- declare_population(df_pre98_2)
-
-#design1_plus_estimands22 <- pop_pre98_2 + estimand22
-#kable(estimand1(df_pre98_2), caption = "Estimands 22")
-
-#design_full22 <- design1_plus_estimands22 +   estimator22
-
-#run_design(design_full22)
-```
 
 ## Replication Data
 
